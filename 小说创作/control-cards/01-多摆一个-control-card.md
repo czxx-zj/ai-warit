@@ -47,7 +47,7 @@
 - appearing_characters: 谭正阳、谭玉兰、姓王的老同事、若干吊唁亲友
 - character_desires_this_chapter: 谭正阳想帮上忙并弄清状况
 - character_concealments_this_chapter: 谭玉兰知道碗是给谁的，不说
-- protagonist_personality_trigger: 测绘思维，数人数、量尺寸、记位置；话到嘴边先停一下，听一耳朵这句是谁的
+- protagonist_personality_trigger: 测绘思维，数人数、量尺寸、记位置；开口之前先停一下，认一认这句话是不是自己要说的
 - character_increment: 他从局外人变成看见规则裂缝的人
 - arc_progression_point: 他已经知道身上有东西，只是不知道那是什么，也从没跟人说过
 

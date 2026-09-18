@@ -47,7 +47,7 @@
 - appearing_characters: 谭正阳、谭玉兰
 - character_desires_this_chapter: 谭正阳想把奶奶最后的话问清楚
 - character_concealments_this_chapter: 谭玉兰复述了遗言，但藏起了自己对这句话的理解
-- protagonist_personality_trigger: 数、量、对不上就记住；话到嘴边先听一耳朵
+- protagonist_personality_trigger: 数、量、对不上就记住；开口之前先停一下
 - character_increment: 他第一次把一句家常话听成指向自己的话
 - arc_progression_point: 他开始怀疑奶奶早就知道他身上有东西
 
