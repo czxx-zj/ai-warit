@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若两家说法对撞不够，把「不归庙里管」提到孙姨提出请符之前
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 猫与数两遍处用短句段，与日常长句交替，避免等长
+- wording_task: 猫只写动作、位置与朝向，不拟人化，不用比喻给不祥
+- paragraph_task: 院里院外按视角移动切段，不用「与此同时」类连接词
+- dialogue_task: 孙姨与姑姑各说各的一套，话说半句，不吵到底
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no

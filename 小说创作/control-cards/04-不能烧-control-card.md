@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若不认火力度不够，把第二次试烧移出屋外，加邻居围观
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 老辈人议事段落长短不齐，避免多人开口写成等长排段
+- wording_task: 方言词与语气词原样保留，四字格连用即改
+- paragraph_task: 谁的连续动作跟谁同段，说话人切换才另起
+- dialogue_task: 意见冲突靠打断与半句话体现，不写成轮流陈述
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no

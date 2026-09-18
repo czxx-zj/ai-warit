@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若孤立感不够，把数窗改到白天，让他当着一楼人的面数
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 断电与灯泡炸裂处用短句加动作，声音不靠形容词堆
+- wording_task: 写声响用具体物象与身体反应，禁用「仿佛」「似乎」连用
+- paragraph_task: 屋里屋外切换靠动作与时间过渡，不用连接词起句
+- dialogue_task: 找电工与邻居问话写成口语短句，答非所问照留
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no

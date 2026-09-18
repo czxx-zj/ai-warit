@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若开篇拖沓，从搬凳子一段往前砍
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 吊唁与摆碗两段句长参差，长短句交替，不许连写三句同结构
+- wording_task: 白事细节用名词与动词落地，形容词能删就删；供桌、碗筷、香炉一律不解释
+- paragraph_task: 不许用连接词起句；吊唁场面靠动作切分，不写解释性总结段
+- dialogue_task: 姑姑的命令句保持短促重复，不与人解释理由
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no

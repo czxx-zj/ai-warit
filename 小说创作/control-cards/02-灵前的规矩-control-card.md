@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若遗言力度不够，把临终场景从转述改为她当天在旁的直接短闪回
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 守夜那几段用短句递进，规矩条目不作等长罗列
+- wording_task: 老辈人的话保留口语与语气词，不翻成书面语；规矩不加解释性从句
+- paragraph_task: 对话与动作合段，不靠空行伪装节奏
+- dialogue_task: 一人一套口癖，反复用；对话不承担体系说明
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no

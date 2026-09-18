@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若压迫不够，把叫门挪到楼道声控灯亮灭之间，让声音跟着灯走
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 门外叫门段句长参差，紧张处用三五个字的短句，不许排比三连
+- wording_task: 恐惧只给声音、触感与时序错位，不写「说不出的」「无法形容」
+- paragraph_task: 断电过夜按动作与时辰推进，不靠空行与连接词造势
+- dialogue_task: 门外那声用奶奶的调子，只给听觉，不解释
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no

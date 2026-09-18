@@ -13,7 +13,7 @@
 - updated_files:
   - 09-style-guide.md: 新增真人写作标准；AI 腔黑名单与修订标准扩充
   - docs/01-手法拆解.md: 新增第十节真人写作要点
-- open_question: 是否把真人写作标准写进每章控制卡的验收条件
+- resolved: 已把真人写作标准写进七张控制卡的验收条件，新增 Human Writing Check 段，逐章给句长、用词、段落、对话与朗读关的检查项
 
 ## Chapter 7
 

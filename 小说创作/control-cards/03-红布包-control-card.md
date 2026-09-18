@@ -125,6 +125,14 @@
 - failed_dimensions: 待审
 - rewrite_direction_if_failed: 若缺位力度不够，把堂单从"名号成对"改为"格子数对不上"，让缺位更硬
 
+## Human Writing Check
+- pass_line: 每千字判为机器痕迹处不超过 1
+- sentence_task: 遗物归置写成动作链，长短句交替，形容词删后句子仍要立住
+- wording_task: 红布包只写颜色、手感、折痕与动作，不写评价词；术语零解释
+- paragraph_task: 归置过程按动作推进，不用「随后」「接着」这类连接词串段
+- dialogue_task: 姑姑「你别碰它」一句到底，不补解释
+- read_aloud_gate: 通读一遍，读着像念稿就重写
+
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
