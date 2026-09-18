@@ -88,7 +88,7 @@
   - external_change: 头七当天见着院里的猫不进院，被孙姨当面点破；后半夜老周家借车连夜去闺女家避一避
   - internal_change: 从「这些老规矩是真管用的」转到「这件事到底归谁管，两边各说各的，谁也没赢」；他动手把院里那道线连到自家窗户上
   - current_arc_phase: 局外人开始往外看。他已经知道自己身上有东西，还没对任何人说，也不打算在这趟丧事里说
-  - current_personality_exposure_layer: 测绘式精确与压抑情绪；遇事先把能想到的解释过一遍；数东西必须两遍对上，这回对上了，他心里反而更沉
+  - current_personality_exposure_layer: 压抑情绪，遇事先把能想到的解释过一遍；数东西只在手上真数着东西时出现，两遍对上才算数
   - dialogue_state_change: 对孙姨不争，只报一个立场；对老周想多问一句，自己先拦下
   - last_meaningful_presence: 第七章
 - character: 谭玉兰

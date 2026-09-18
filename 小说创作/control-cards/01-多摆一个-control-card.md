@@ -47,7 +47,7 @@
 - appearing_characters: 谭正阳、谭玉兰、姓王的老同事、若干吊唁亲友
 - character_desires_this_chapter: 谭正阳想帮上忙并弄清状况
 - character_concealments_this_chapter: 谭玉兰知道碗是给谁的，不说
-- protagonist_personality_trigger: 测绘思维，数人数、量尺寸、记位置；开口之前先停一下，认一认这句话是不是自己要说的
+- protagonist_personality_trigger: 该说的时候先停一下，认一认这句话是不是自己要说的；数东西只在他手里真数着东西时出现
 - character_increment: 他从局外人变成看见规则裂缝的人
 - arc_progression_point: 他已经知道身上有东西，只是不知道那是什么，也从没跟人说过
 
@@ -100,7 +100,7 @@
 - required_effects: 煤味、香灰味、薄冰、豁口碗沿
 - optional_effects: 电视里的人声作为反差背景
 - forbidden_drift: 不得出现恐怖、诡异、阴森一类评价词
-- language_signature_task: 短句，测绘式精确，情绪压住不说
+- language_signature_task: 短句，情绪压住不说；不许拿量、算、对账、画图当旁白的解释
 - dialogue_task: 用姑姑的祈使句建立她的控制欲
 - suspense_task: 主未知一句话说清，碗是给谁的
 - structure_task: 进章晚，从利落动作切入，中点有转，本地收束加外溢债务
