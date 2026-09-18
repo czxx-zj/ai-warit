@@ -37,7 +37,7 @@
 - characters_due_for_return: 谭正阳、谭玉兰、王大爷
 - relationships_due_for_bridge: 谭正阳与谭玉兰、谭正阳与王大爷
 - foreshadows_due_or_overdue: F020 红布包不认火续力；F028 姓常的与街那头纪家同时埋线
-- world_rules_in_play: 堂口要有号；香停七天堂就空；报得出号才接得了堂；这屋里的东西按另一套规矩走
+- world_rules_in_play: 堂口要有号；香一天都不能断，停满七天堂就散；报得出号才接得了堂；这屋里的东西按另一套规矩走
 
 ## Conflict
 - external_conflict: 外来的纪先生登门说这一堂空了，要立字据把堂挪走
@@ -63,7 +63,7 @@
 - planned_unit_count: 4
 - scene_units:
   - unit_label: 登门看供桌
-    - goal: 让外人一眼点出香断七天、堂已空
+    - goal: 让外人一眼点出香停到第五天、堂要散
     - conflict: 姑姑说还差两天到日子
     - turn_or_aftershock: 纪先生说要接这一堂，无主的堂三年之内必出人命
     - carryover: 逼他表态
