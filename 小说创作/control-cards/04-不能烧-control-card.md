@@ -10,9 +10,9 @@
 - style_intensity: 低至中。本章不做惊吓，恐惧落在老辈人对同一件东西的共同反应上
 
 ## Chapter Mission
-- core_goal: 让长辈集体出面，坐实堂单的分量，并把保管责任交到谭正阳手里
+- core_goal: 让堂单在本章开头解开并坐实缺位，再让长辈集体出面，把保管责任交到谭正阳手里
 - required_plotlines: L3 家族亏欠推进，L5 丧事后事收尾，L1 轻触
-- required_prior_debts: 第 3 章姑姑收走红布包与「你别碰它」必须在本章给出下一步；那一格原本是谁的必须继续压住
+- required_prior_debts: 第 3 章章末翻出的红布包必须在本章开头解开；那一格原本是谁的必须继续压住
 
 ## Chapter Title
 - title_mode: 混合式，编号加短标题
@@ -31,9 +31,9 @@
 - final_title_recheck: 已复核，锁定「不能烧」。成稿重心在长辈失态与交接，未偏移
 
 ## Recall And Return Pressure
-- retrieval_slice_targets: 第 3 章红布包与姑姑的「你别碰它」；第 1 章邻居口中的「出马，老刘，该来的」；第 2 章奶奶数东西
+- retrieval_slice_targets: 第 3 章翻出的红布包；第 1 章邻居口中的「出马，老刘，该来的」；第 2 章奶奶临终说「少一个」
 - cold_lines_due: 无
-- characters_due_for_return: 谭正阳、谭玉兰、姓王老头
+- characters_due_for_return: 谭正阳、谭玉兰、王大爷
 - relationships_due_for_bridge: 谭正阳与谭玉兰
 - foreshadows_due_or_overdue: F002 堂单缺位，继续压住不答
 - world_rules_in_play: 单子立过不能烧；守堂的人管得住，搭手的管不住；单子认人
@@ -44,7 +44,7 @@
 - relational_conflict: 姑姑把包塞给他，等于把奶奶没交代的那一部分推给了他
 
 ## Character Use
-- appearing_characters: 谭正阳、谭玉兰、姓王老头、赵老太太、二姨
+- appearing_characters: 谭正阳、谭玉兰、王大爷、赵老太太、二姨
 - character_desires_this_chapter: 他想知道自己在这件事里算什么，为什么是他
 - character_concealments_this_chapter: 三位老辈人都知道得比他多，谁都不肯往下说
 - protagonist_personality_trigger: 听人说话先听漏洞；谁也没正面回答，他就把问题摆在桌上
@@ -52,14 +52,19 @@
 - arc_progression_point: 从家里的一件旧物，转到家里交给他的一件事
 
 ## Foreshadowing
-- new_plants: 红布包不认火、奶奶托王大爷带的那句「得有人接」、二姨数不对、姑姑说的「放到它自己动」；后半夜姑姑把包按进纸灰里又提起来，没点火；第二天包回到他枕头底下，而他记得那会儿包不在
-- active_callbacks: 奶奶数东西从第 2 章延续到二姨的手上
+- new_plants: 堂单缺位、成对名号缺了半边、被抹得发白的那一格、姑姑叠布的手法很熟、姑姑没交代这个包怎么办；「她教过你数鸡，没教过你数人」；红布包不认火、奶奶托王大爷带的那句「得有人接」、姑姑说的「放到它自己动」
+- active_callbacks: 奶奶临终说的「少一个」在缺位上对上；二姨的手指收拢又摊开
 - blocked_reveals: 谁接，必须不答；守堂是什么，必须不解释
 
 ## Scene Execution
-- scene_pressure_shape: 争执章转交接章
-- planned_unit_count: 4
+- scene_pressure_shape: 发现章转争执章再转交接章
+- planned_unit_count: 5
 - scene_units:
+  - unit_label: 解开红布包
+    - goal: 本章核心投放，把「缺位」落到实物上
+    - conflict: 他看得出名号成对，看不出那一格原来是谁的
+    - turn_or_aftershock: 独有一对缺了半边，空的那格被抹得发白，宽窄跟别的一样；姑姑进来看见，把布叠走，只说「你别碰它」
+    - carryover: 与奶奶说的「少一个」接上，通向请人
   - unit_label: 请人
     - goal: 把老辈人聚到同一个屋里
     - conflict: 王大爷一开口就点破东西被翻出来了
@@ -95,7 +100,7 @@
 - support_style_payoff: 主未知一句话说清，为什么是他
 - paragraph_override_reason: 无
 - paragraph_rhythm_task: 叙事段保持 2 至 4 句，试烧处用短句段递进
-- short_paragraph_license: 两次试烧、二姨数手、章末
+- short_paragraph_license: 两次试烧、二姨的手、章末
 - pseudo_style_to_avoid: 把不认火写成招式展示；术语堆砌；靠空行伪造节奏
 - required_effects: 四十瓦灯、拐杖点地、纸灰的形状、白烟、灶眼上的蓝圈、布上的灰一弹就掉
 - optional_effects: 棉袄、袖筒、暖气片、声控灯
@@ -143,7 +148,7 @@
 - next_line_auto_entry: no
 
 ## Opening Hook
-- opening_hook: 布烧不着。黄纸烧成一堆灰，红布包搁在灰上连边都没卷；煤气灶上再试，白烟散了，布还是红的
+- opening_hook: 红布包是凉的。他解开三个结、剥开三层布，里头是一块写满名号的布；名号一个配一个，独有一对缺了半边，空的那格被人一遍遍抹得发白
 - opening_hook_type: 悬念钩
 
 ## Ending Hook

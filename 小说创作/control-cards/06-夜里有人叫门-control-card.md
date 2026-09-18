@@ -7,10 +7,10 @@
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
-- style_intensity: 中偏高。威胁第一次贴到门上，但不开门、不露形，靠声音、缺影与数不对施压
+- style_intensity: 中偏高。威胁第一次贴到门上，但不开门、不露形，靠声音、缺影与对不上施压
 
 ## Chapter Mission
-- core_goal: 把威胁从物件推进到门外，第一次正经动用守夜规矩，并把镜中慢半拍埋下
+- core_goal: 写断电后的日常与电工的失效解释，再把威胁从物件推进到门外，第一次正经动用守夜规矩，并把镜中慢半拍埋下
 - required_plotlines: L1 主线加压，L3 轻续，L5 空间压力延续
 - required_prior_debts: 第 2 章守夜规矩里的叫门与叫名字两条必须首次动用；第 1 章空香炉与「等人齐了再点香」须续一次
 
@@ -24,7 +24,7 @@
   - 夜里有人叫门
   - 你应了没有
   - 慢半拍
-  - 两遍没对上
+  - 两遍对不上
   - 别开
 - working_title: 夜里有人叫门
 - spoiler_risk: 低。标题只给事件，不给来历
@@ -47,7 +47,7 @@
 - appearing_characters: 谭正阳、谭玉兰
 - character_desires_this_chapter: 他想按规矩把那一夜走完，天亮就当没这回事
 - character_concealments_this_chapter: 谭玉兰早醒着，却不出来，也不问门外是谁
-- protagonist_personality_trigger: 遇事先找能解释的那一套；数东西必须两遍对上
+- protagonist_personality_trigger: 遇事先找能解释的那一套；越对不上越要再对一遍
 - character_increment: 他第一次发现自己的身体会自己动，且他记不得那一下是什么时候发生的
 - arc_progression_point: 规矩第一次真救了他一次，也第一次说明这些规矩认得门外的东西
 
@@ -61,18 +61,18 @@
 - planned_unit_count: 4
 - scene_units:
   - unit_label: 黑着过
-    - goal: 让断电变成过日子的方式，把规矩推到台前
+    - goal: 让断电变成过日子的方式，走一遍安全解释再让它失效
     - conflict: 别家有电，他家没有；姑姑不许叫人，也不许声张
-    - turn_or_aftershock: 空香炉与红布包同时在场，发白处更白
+    - turn_or_aftershock: 电工查线测箱，留下一句「你这不是线的事」；空香炉与红布包同时在场，发白处更白
     - carryover: 两个人各睡各屋，中间隔一道走廊
   - unit_label: 叫门
     - goal: 威胁第一次贴到门
     - conflict: 他按规矩问谁，门外不报名，只叫他的名字
     - turn_or_aftershock: 楼道灯亮着，门底下没有影子
     - carryover: 那个调子像奶奶
-  - unit_label: 数不对
+  - unit_label: 两遍对不上
     - goal: 让他在最熟的一件本事上失手
-    - conflict: 他数门响，两遍数不一致，差一个
+    - conflict: 他把门响过了两遍，两遍不一致，差一个
     - turn_or_aftershock: 他回神，手已经扣在门闩上，他不知道什么时候扣上去的
     - carryover: 他没应，可他不敢断定
   - unit_label: 镜与姑姑
@@ -84,20 +84,20 @@
 ## Theme Pressure
 - human_truth_exposed: 这个家的规矩不是讲究，是拿命试出来的；姑姑一个人守了三十年
 - central_question_pressure: 他嘴里的话，有多少是他自己说的
-- value_collision: 他信的两遍对账，撞上一种数不清的东西
+- value_collision: 他信的两遍对得上，撞上一种对不上的东西
 - social_or_era_pressure: 老楼断电只能靠蜡烛与手电；遇事不许声张，怕人说
-- motif_or_image_return: 空香炉、数东西、红布包、蜡烛、镜子
+- motif_or_image_return: 空香炉、红布包、蜡烛、镜子
 
 ## Style Execution
 - internalized_strengths: 日常错位与老楼细节扎实，规矩从人物动作里立起来
-- active_style_drivers: 声音逼近、感官证据、受限视角、数不对
+- active_style_drivers: 声音逼近、感官证据、受限视角、对不上
 - primary_style_payoff: 楼道灯亮着，门底下却没有影子，声音就在门后
 - support_style_payoff: 门外是谁、它为什么不推门，一句话悬到底
 - paragraph_override_reason: 无
-- paragraph_rhythm_task: 叙事段保持 2 至 4 句，叫门与数不对处用短句段递进
-- short_paragraph_license: 叫门、两遍没对上、镜中那一下、章末
+- paragraph_rhythm_task: 叙事段保持 2 至 4 句，叫门与两遍对不上处用短句段递进
+- short_paragraph_license: 叫门、两遍对不上、镜中那一下、章末
 - pseudo_style_to_avoid: 把门外写成鬼怪登场；靠形容词堆恐惧；让声音解释自己
-- required_effects: 蜡烛与手电的光圈、门底下的走廊灯、门外不紧不慢的等法、数的两遍差一个、镜布滑开的一角、镜里那只手慢半拍
+- required_effects: 蜡烛与手电的光圈、门底下的走廊灯、门外不紧不慢的等法、两遍差一个、镜布滑开的一角、镜里那只手慢半拍
 - optional_effects: 邻居家电视声、暖气管、楼道声控灯、电子钟黑屏
 - forbidden_drift: 不得出现鬼、仙家等直白称谓；不得开门；不得让门外报名；不得给镜子一个明确解释
 - language_signature_task: 短句，克制；姑姑的话更短，以问句为主
@@ -107,7 +107,7 @@
 - authenticity_focus: 老楼断电过夜与守夜问话的真实流程，术语零解释
 - hook_type: 悬念钩
 - closure_type: 一句话收在门外叫声像奶奶上
-- theme_landing_action: 他数门响两遍没对上，手却已经扣在门闩上
+- theme_landing_action: 他把门响过了两遍，对不上，手却已经扣在门闩上
 
 ## Risk Scan
 - missing_information: 门外是谁不交代；姑姑为什么早醒着不交代

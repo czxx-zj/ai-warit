@@ -7,10 +7,11 @@
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
-- style_intensity: 低。本章是开场铺垫章，只保留持续不对劲的余压，不做大惊吓
+- style_intensity: 低至中。开篇章，中段给一次当众接话的小爽点，后半只保留持续不对劲的余压，不做大惊吓
 
 ## Chapter Mission
-- core_goal: 建立写实表层与人物关系，投放第一处细思极恐，钩住读者
+- core_goal: 建立写实表层与人物关系，中段让主角当众接住表舅，给一次小爽点，再投放第一处细思极恐，钩住读者
+- chapter_tier: 小高潮（第 1 章）
 - required_plotlines: L5 本地丧事起手，L3 家族亏欠埋种子
 - required_prior_debts: 谭正阳欠奶奶一次回应，开篇即存在
 
@@ -28,7 +29,7 @@
   - 回来的那天下了雪
 - working_title: 多摆一个
 - spoiler_risk: 低。反常陈述制造「多摆一个什么」的悬念，不泄露碗的用途
-- final_title_recheck: 已复核，锁定「多摆一个」。成稿重心未偏移，反常陈述承担聚焦与悬念两职
+- final_title_recheck: 已复核，锁定「多摆一个」。开篇小高潮落在表舅当众追问房本上，主线仍收在碗与香炉上
 
 ## Recall And Return Pressure
 - retrieval_slice_targets: 无，开篇章
@@ -39,20 +40,20 @@
 - world_rules_in_play: 仅民俗表层，不解释体系
 
 ## Conflict
-- external_conflict: 谭正阳想弄清家里在办什么，长辈不给他问的入口
+- external_conflict: 他当众接下表舅对房本的追问，把话推到头七之后
 - internal_conflict: 他嘴上不信这些，身体却比谁都先照老规矩做
-- relational_conflict: 姑姑独自操办一切，把他当客人
+- relational_conflict: 姑姑独自操办一切，把他当客人；表舅当众试探他算不算这个家的人
 
 ## Character Use
-- appearing_characters: 谭正阳、谭玉兰、姓王的老同事、若干吊唁亲友
-- character_desires_this_chapter: 谭正阳想帮上忙并弄清状况
+- appearing_characters: 谭正阳、谭玉兰、王大爷（奶奶的老同事）、表舅、若干吊唁亲友
+- character_desires_this_chapter: 谭正阳想帮上忙、弄清状况，同时当众立住自己在这个家的位置
 - character_concealments_this_chapter: 谭玉兰知道碗是给谁的，不说
-- protagonist_personality_trigger: 该说的时候先停一下，认一认这句话是不是自己要说的；数东西只在他手里真数着东西时出现
-- character_increment: 他从局外人变成看见规则裂缝的人
+- protagonist_personality_trigger: 该说的时候先停一下，认一认这句话是不是自己要说的；接话靠把日子和名分点清楚
+- character_increment: 他从局外人变成当众接住话、并看见规则裂缝的人
 - arc_progression_point: 他已经知道身上有东西，只是不知道那是什么，也从没跟人说过
 
 ## Foreshadowing
-- new_plants: 供桌上的旧碗筷、碗口冲着门、香炉是空的；表舅当众打听房本上写谁的名字；姑姑电话里不肯说奶奶哪天走的
+- new_plants: 供桌上的旧碗筷、碗口冲着门、香炉是空的；表舅当众打听房本、被顶回、撂下「头七过了我再来」；姑姑电话里不肯说奶奶哪天走的
 - active_callbacks: 无
 - blocked_reveals: 碗是给谁的，必须不答
 
@@ -68,8 +69,13 @@
   - unit_label: 吊唁
     - goal: 建立熟人社会与人情压力
     - conflict: 没人提死者
-    - turn_or_aftershock: 姓王老头的手很凉
+    - turn_or_aftershock: 王大爷的手很凉
     - carryover: 老头是后续档案线索的入口
+  - unit_label: 表舅
+    - goal: 开篇小高潮，让他当众站住脚
+    - conflict: 表舅当着人问房本，问他还要不要这个家
+    - turn_or_aftershock: 他先停一下认清是不是自己要说的，回一个「要」，把事推到头七之后
+    - carryover: 表舅撂下头七再来，给第 3 章逼房本埋线
   - unit_label: 摆碗
     - goal: 投放本章核心
     - conflict: 人齐了，姑姑要多摆一个
@@ -78,7 +84,7 @@
   - unit_label: 收尾
     - goal: 把不安留在日常里
     - conflict: 摆碗不点香，违反奶奶自己的规矩
-    - turn_or_aftershock: 姑姑说等人齐了再点，而七个人都在
+    - turn_or_aftershock: 姑姑说等人齐了再点，香炉一直空着
     - carryover: 章末钩子
 
 ## Theme Pressure
@@ -103,16 +109,16 @@
 - language_signature_task: 短句，情绪压住不说；不许拿量、算、对账、画图当旁白的解释
 - dialogue_task: 用姑姑的祈使句建立她的控制欲
 - suspense_task: 主未知一句话说清，碗是给谁的
-- structure_task: 进章晚，从利落动作切入，中点有转，本地收束加外溢债务
+- structure_task: 进章晚，从利落动作切入；中段用表舅当众追问做小高潮，后段落到摆碗不点香，章末留在空香炉上
 - authenticity_focus: 东北小城白事细节，术语零出现
-- hook_type: 信息钩
-- closure_type: 一顿饭吃完，人散
-- theme_landing_action: 他数过两遍人头，最后又数了一遍
+- hook_type: 信息钩加情绪钩
+- closure_type: 一顿饭吃完，人散，香炉空着
+- theme_landing_action: 他站在供桌前，那一句没再问出口
 
 ## Risk Scan
 - missing_information: 奶奶去世的具体原因暂时留白
 - conflicts_found: 无
-- continuity_risks: 姓王老头需在后续档案章回收，否则成废棋
+- continuity_risks: 王大爷需在后续档案章回收，否则成废棋
 - forgotten_element_risk: 谭正阳的亏欠需在卷二前再碰一次
 - trope_convenience_risk: 避免把姑姑写成单纯恶人，她的沉默要有成本
 - user_branch: 无
@@ -147,4 +153,4 @@
 - opening_hook_type: 信息钩
 
 ## Ending Hook
-- chapter_end_hook: 谭玉兰说等人齐了再点香，香炉却空着；他回头数了一遍屋里，七个人，都在
+- chapter_end_hook: 人走净了，桌子收了，供桌上那副碗筷还摆着，碗口冲着门，香炉里一支香也没有；姑姑站在供桌前没动，他那句没问出口

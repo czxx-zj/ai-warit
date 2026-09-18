@@ -47,7 +47,7 @@
 - appearing_characters: 谭正阳、谭玉兰、孙姨（老周的媳妇）、老周、几个老邻居
 - character_desires_this_chapter: 他想把头七办利索，把猫的事归到耗子药或者天气上
 - character_concealments_this_chapter: 姑姑不跟外人解释半句，只用一句「不归庙里管」把话堵死
-- protagonist_personality_trigger: 遇事先量后判；数东西必须两遍对上，这回对上了，他心里反而更沉
+- protagonist_personality_trigger: 遇事先找能解释的那一套；眼前的东西要两遍对上，这回对上了，他心里反而更沉
 - character_increment: 他第一次自己动手把院里的线和自家窗户连起来，动脑发现的东西比别人的话更让他不安
 - arc_progression_point: 他不再只守着自家的门，开始去看院子；姑姑也从瞒着走到决定请人
 
@@ -67,14 +67,14 @@
     - carryover: 他按位置站在姑姑旁边
   - unit_label: 院门口那排猫
     - goal: 把错位从屋里推到院里
-    - conflict: 猫都挤在院外，死活不进，他数了两遍，五只对上
+    - conflict: 猫都挤在院外，死活不进，他看了两遍，五只对上
     - turn_or_aftershock: 黄猫脑袋一直冲着院里
     - carryover: 孙姨说出「从你奶走那天起」
   - unit_label: 两套说法
     - goal: 让两套规矩的说法在人物嘴上正面相撞
     - conflict: 孙姨要请庙里的符，姑姑说这个家的事不归庙里管
     - turn_or_aftershock: 两人没吵，各说各的，谭正阳听出两边说的不是同一样事
-    - carryover: 他回去把院门口那道线画到自己那张图上
+    - carryover: 他回去顺着猫脑袋的方向把院门口连到自家朝北的窗上
   - unit_label: 连夜
     - goal: 落邻居的代价，逼姑姑请人
     - conflict: 后半夜老周来敲门，说媳妇怕得睡不着，要连夜去闺女家
@@ -86,7 +86,7 @@
 - central_question_pressure: 这件事到底归谁管
 - value_collision: 请符、上香、等的那一套，撞上姑姑一句「不归庙里管」，他夹在中间
 - social_or_era_pressure: 家属楼里谁家有事全楼都知道；老周家怕人说，也怕自己不干净
-- motif_or_image_return: 数东西、香炉、窗、猫、煤棚
+- motif_or_image_return: 香炉、窗、猫、煤棚
 
 ## Style Execution
 - internalized_strengths: 老楼院子的日常细节扎实，恐惧贴在猫这种最常见的东西上
@@ -94,10 +94,10 @@
 - primary_style_payoff: 一院子的猫全挤在门外，没有一只肯进去
 - support_style_payoff: 到底归谁管，两家各说各的，谁也没赢
 - paragraph_override_reason: 无
-- paragraph_rhythm_task: 叙事段保持 2 至 4 句，猫与数两遍处用短句段递进
-- short_paragraph_license: 数猫、院门口那道线、车灯、章末
+- paragraph_rhythm_task: 叙事段保持 2 至 4 句，猫与两遍对上处用短句段递进
+- short_paragraph_license: 两遍看猫、院门口那道线、车灯、章末
 - pseudo_style_to_avoid: 把猫写成通灵道具；让姑姑讲解体系；靠形容词堆不祥
-- required_effects: 煤棚上掀起的油毡、猫挤在水泥台上、黄猫冲着院里的脑袋、他图上那道线正对朝北的窗、后半夜的敲门与车灯
+- required_effects: 煤棚上掀起的油毡、猫挤在水泥台上、黄猫冲着院里的脑袋、猫脑袋的方向正对朝北的窗、后半夜的敲门与车灯
 - optional_effects: 铁桶里烧纸的灰、老周的棉帽子、楼道声控灯
 - forbidden_drift: 不得出现鬼、仙家等直白称谓；不得解释猫为什么不进院；不得让姑姑或孙姨讲体系
 - language_signature_task: 短句，克制；方言词少而准；他话少，老周话碎
@@ -107,7 +107,7 @@
 - authenticity_focus: 头七烧纸与家属楼院子的真实流程，术语零解释
 - hook_type: 危机钩加情绪钩
 - closure_type: 车灯扫窗，人被逼走，姑姑决定请人
-- theme_landing_action: 他把院门口那道线画到自家窗户的那张图上
+- theme_landing_action: 他顺着猫脑袋的方向，把院门口连到自家朝北的窗上
 
 ## Risk Scan
 - missing_information: 是谁先看见猫不进院的，本章不细究；孙姨娘家庙在哪儿，只做口语带过
