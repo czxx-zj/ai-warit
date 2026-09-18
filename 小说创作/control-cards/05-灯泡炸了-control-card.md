@@ -3,7 +3,7 @@
 ## Chapter Identity
 - chapter: 5
 - mode: serialized
-- point_of_view: 谭正阳，紧贴第三人称
+- point_of_view: 第一人称限知，叙述者即谭正阳
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
@@ -128,14 +128,14 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 断电与灯泡炸裂处用短句加动作，声音不靠形容词堆
-- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
+- camera_task: 镜头就是我这一双眼睛。反应写成动作或身体感觉，想到的话直接写出来，不用「我觉得」「我忽然想起」引出
 - wording_task: 写声响用具体物象与身体反应，禁用「仿佛」「似乎」连用
 - plausibility_task: 停电、找电工按老楼实际流程写；不写只有气势、经不起问的句子
 - paragraph_task: 屋里屋外切换靠动作与时间过渡，不用连接词起句
 - dialogue_task: 找电工与邻居问话写成口语短句，答非所问照留
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
-- addressing_task: 旁白称姑姑，主角多数写「他」；姑姑不当面叫谭正阳全名
-- attribution_task: 电工与谭正阳都是男的，电工问话后主角答，写「谭正阳说」，不用「他说」；电工统一称「电工」
+- addressing_task: 主角在旁白里写「我」；旁白称姑姑；姑姑不当面叫我全名
+- attribution_task: 主角开口写「我说」「我问」；电工统一称「电工」，开口用称呼起头
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

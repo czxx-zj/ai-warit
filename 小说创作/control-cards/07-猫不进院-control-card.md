@@ -3,7 +3,7 @@
 ## Chapter Identity
 - chapter: 7
 - mode: serialized
-- point_of_view: 谭正阳，紧贴第三人称
+- point_of_view: 第一人称限知，叙述者即谭正阳
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
@@ -128,14 +128,14 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 猫与数两遍处用短句段，与日常长句交替，避免等长
-- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
+- camera_task: 镜头就是我这一双眼睛。反应写成动作或身体感觉，想到的话直接写出来，不用「我觉得」「我忽然想起」引出
 - wording_task: 猫只写动作、位置与朝向，不拟人化，不用比喻给不祥
 - plausibility_task: 头七烧纸、家属楼院子与邻居借车按本地实际做法写；不写只有气势、经不起问的句子
 - paragraph_task: 院里院外按视角移动切段，不用「与此同时」类连接词
 - dialogue_task: 孙姨与姑姑各说各的一套，话说半句，不吵到底
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
-- addressing_task: 旁白称姑姑；谭正阳当面叫姑姑「姑」，叫老周「周叔」，叫孙姨「孙姨」
-- attribution_task: 老李、老周都是男的，与谭正阳同场，主角开口写「谭正阳说」「谭正阳问」；老李、老周、孙姨各自用称呼起头，不用「他」代指男主角
+- addressing_task: 主角在旁白里写「我」；旁白称姑姑；我当面叫姑姑「姑」，叫老周「周叔」，叫孙姨「孙姨」
+- attribution_task: 老李、老周都是男的，与我同场，主角开口写「我说」「我问」；老李、老周、孙姨各自用称呼起头，不用「他」代指主角
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

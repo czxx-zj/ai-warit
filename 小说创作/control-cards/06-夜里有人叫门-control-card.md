@@ -3,7 +3,7 @@
 ## Chapter Identity
 - chapter: 6
 - mode: serialized
-- point_of_view: 谭正阳，紧贴第三人称
+- point_of_view: 第一人称限知，叙述者即谭正阳
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
@@ -128,14 +128,14 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 门外叫门段句长参差，紧张处用三五个字的短句，不许排比三连
-- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
+- camera_task: 镜头就是我这一双眼睛。反应写成动作或身体感觉，想到的话直接写出来，不用「我觉得」「我忽然想起」引出
 - wording_task: 恐惧只给声音、触感与时序错位，不写「说不出的」「无法形容」
 - plausibility_task: 断电过夜与守夜问话按本地老楼的实际做法写；不写只有气势、经不起问的句子
 - paragraph_task: 断电过夜按动作与时辰推进，不靠空行与连接词造势
 - dialogue_task: 门外那声用奶奶的调子，只给听觉，不解释
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
-- addressing_task: 旁白称姑姑；门外用「正」「阳」两下叫他，跟奶奶生前一个叫法
-- attribution_task: 楼道邻居先开口，主角答话写「谭正阳说」，不用「他说」，免得两人都是男的指不清
+- addressing_task: 主角在旁白里写「我」；旁白称姑姑；门外用「正」「阳」两下叫我，跟奶奶生前一个叫法
+- attribution_task: 主角开口写「我说」「我问」；楼道邻居开口用称呼起头，免得两个男人指不清
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

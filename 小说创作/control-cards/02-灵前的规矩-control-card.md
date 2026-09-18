@@ -3,7 +3,7 @@
 ## Chapter Identity
 - chapter: 2
 - mode: serialized
-- point_of_view: 谭正阳，紧贴第三人称
+- point_of_view: 第一人称限知，叙述者即谭正阳
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
@@ -128,14 +128,14 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 守夜那几段用短句递进，规矩条目不作等长罗列
-- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
+- camera_task: 镜头就是我这一双眼睛。反应写成动作或身体感觉，想到的话直接写出来，不用「我觉得」「我忽然想起」引出
 - wording_task: 老辈人的话保留口语与语气词，不翻成书面语；规矩不加解释性从句
 - plausibility_task: 守夜规矩按本地老人会交代的口气写，一条是一件具体的忌讳；不写只有气势、经不起问的句子
 - paragraph_task: 对话与动作合段，不靠空行伪装节奏
 - dialogue_task: 一人一套口癖，反复用；对话不承担体系说明
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
-- addressing_task: 旁白称姑姑；姑姑对谭正阳提死者说「你奶奶」；「老东家」不是喊家里人的称呼
-- attribution_task: 王大爷与谭正阳同场，王大爷问话后主角答，写「谭正阳说」，不用「他说」；王大爷统一称「王大爷」，不用「老头」，避免两个男性指不清
+- addressing_task: 主角在旁白里写「我」；旁白称姑姑；姑姑对我提死者说「你奶奶」；「老东家」不是喊家里人的称呼
+- attribution_task: 主角开口写「我说」「我问」；王大爷统一称「王大爷」，不用「老头」；王大爷开口用称呼起头，避免两个男性指不清
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

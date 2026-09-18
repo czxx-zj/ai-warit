@@ -3,7 +3,7 @@
 ## Chapter Identity
 - chapter: 4
 - mode: serialized
-- point_of_view: 谭正阳，紧贴第三人称
+- point_of_view: 第一人称限知，叙述者即谭正阳
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
@@ -128,14 +128,14 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 老辈人议事段落长短不齐，避免多人开口写成等长排段
-- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
+- camera_task: 镜头就是我这一双眼睛。反应写成动作或身体感觉，想到的话直接写出来，不用「我觉得」「我忽然想起」引出
 - wording_task: 方言词与语气词原样保留，四字格连用即改
 - plausibility_task: 老辈人议事按本地人情往来的实际场面写；不写只有气势、经不起问的句子
 - paragraph_task: 谁的连续动作跟谁同段，说话人切换才另起
 - dialogue_task: 意见冲突靠打断与半句话体现，不写成轮流陈述
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
-- addressing_task: 二姨叫姑姑「玉兰」，全名只此一次；姑姑称谭正阳「我侄儿」，使唤他叫「小阳」；姑姑对老辈人提死者说「我妈」
-- attribution_task: 王大爷在场，王大爷与谭正阳都是男的，谭正阳开口一律写「谭正阳说」「谭正阳问」；王大爷、赵老太太、二姨各自用称呼起头，不写「老头」
+- addressing_task: 二姨叫姑姑「玉兰」，全名只此一次；姑姑称我「我侄儿」，使唤我叫「小阳」；姑姑对老辈人提死者说「我妈」
+- attribution_task: 主角开口一律写「我说」「我问」；王大爷、赵老太太、二姨各自用称呼起头，不写「老头」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

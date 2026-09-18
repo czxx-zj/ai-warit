@@ -3,7 +3,7 @@
 ## Chapter Identity
 - chapter: 1
 - mode: serialized
-- point_of_view: 谭正阳，紧贴第三人称
+- point_of_view: 第一人称限知，叙述者即谭正阳
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
@@ -128,14 +128,14 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 吊唁与摆碗两段句长参差，长短句交替，不许连写三句同结构
-- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
+- camera_task: 镜头就是我这一双眼睛。反应写成动作或身体感觉，想到的话直接写出来，不用「我觉得」「我忽然想起」引出
 - wording_task: 白事细节用名词与动词落地，形容词能删就删；供桌、碗筷、香炉一律不解释
 - plausibility_task: 姑姑的能干从具体事上写，谁家办白事来请她、她张口报得出几桌几双筷子；不写只有气势、经不起问的句子
 - paragraph_task: 不许用连接词起句；吊唁场面靠动作切分，不写解释性总结段
 - dialogue_task: 姑姑的命令句保持短促重复，不与人解释理由
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
-- addressing_task: 旁白称姑姑，不写全名；姑姑叫谭正阳「小阳」；姑姑对他提死者说「你奶奶」
-- attribution_task: 王大爷这一场只说身份，不用「老头」在旁白里混指；场上只剩一个男性在说话时，主角的话才可用「他说」
+- addressing_task: 主角在旁白里写「我」，全名不进旁白；旁白称姑姑，不写全名；姑姑叫我「小阳」；姑姑对我提死者说「你奶奶」
+- attribution_task: 主角开口写「我说」「我问」。王大爷这一场只说身份，不用「老头」在旁白里混指；场上只剩一个男性在说话时，别人才用「他说」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
