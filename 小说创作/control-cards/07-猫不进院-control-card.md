@@ -33,7 +33,7 @@
 ## Recall And Return Pressure
 - retrieval_slice_targets: 第 6 章「明儿头七，你站我旁边」；第 1 章「等人齐了再点香」；第 5 章楼下的煤与墙根
 - cold_lines_due: 无
-- characters_due_for_return: 谭正阳、谭玉兰、老周、孙姨
+- characters_due_for_return: 谭正阳、谭玉兰、老周、孙姨、二姨、赵老太太
 - relationships_due_for_bridge: 谭正阳与谭玉兰；谭家与楼下老周家
 - foreshadows_due_or_overdue: F023 夜里的叫门声续压；F002 F020 F021 F022 维持已投放
 - world_rules_in_play: 头七的流程；碗摆上别点香、等人齐了再说；香炉一直空着
@@ -44,7 +44,7 @@
 - relational_conflict: 孙姨要请庙里的符，姑姑当众回绝，说这个家的事不归庙里管
 
 ## Character Use
-- appearing_characters: 谭正阳、谭玉兰、孙姨（老周的媳妇）、老周、几个老邻居
+- appearing_characters: 谭正阳、谭玉兰、孙姨（老周的媳妇）、老周、二姨、赵老太太、对门老李、几个老邻居
 - character_desires_this_chapter: 他想把头七办利索，把猫的事归到耗子药或者天气上
 - character_concealments_this_chapter: 姑姑不跟外人解释半句，只用一句「不归庙里管」把话堵死
 - protagonist_personality_trigger: 遇事先找能解释的那一套；眼前的东西要两遍对上，这回对上了，他心里反而更沉
@@ -63,7 +63,7 @@
   - unit_label: 头七
     - goal: 兑现上一章的约，把不能点香的规矩再守一次
     - conflict: 老邻居里有人主张上香，姑姑拦下
-    - turn_or_aftershock: 香炉空着，纸烧完，长明灯添满
+    - turn_or_aftershock: 香炉空着，纸烧完，长明灯添满；二姨站在供桌边又做了一遍收拢摊开的手势，谭正阳这回没问
     - carryover: 他按位置站在姑姑旁边
   - unit_label: 院门口那排猫
     - goal: 把错位从屋里推到院里
