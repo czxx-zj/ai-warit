@@ -135,6 +135,7 @@
 - dialogue_task: 找电工与邻居问话写成口语短句，答非所问照留
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - addressing_task: 旁白称姑姑，主角多数写「他」；姑姑不当面叫谭正阳全名
+- attribution_task: 电工与谭正阳都是男的，电工问话后主角答，写「谭正阳说」，不用「他说」；电工统一称「电工」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

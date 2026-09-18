@@ -135,6 +135,7 @@
 - dialogue_task: 一人一套口癖，反复用；对话不承担体系说明
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - addressing_task: 旁白称姑姑；姑姑对谭正阳提死者说「你奶奶」；「老东家」不是喊家里人的称呼
+- attribution_task: 王大爷与谭正阳同场，王大爷问话后主角答，写「谭正阳说」，不用「他说」；王大爷统一称「王大爷」，不用「老头」，避免两个男性指不清
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

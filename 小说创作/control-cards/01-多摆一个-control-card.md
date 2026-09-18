@@ -135,6 +135,7 @@
 - dialogue_task: 姑姑的命令句保持短促重复，不与人解释理由
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - addressing_task: 旁白称姑姑，不写全名；姑姑叫谭正阳「小阳」；姑姑对他提死者说「你奶奶」
+- attribution_task: 王大爷这一场只说身份，不用「老头」在旁白里混指；场上只剩一个男性在说话时，主角的话才可用「他说」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

@@ -135,6 +135,7 @@
 - dialogue_task: 孙姨与姑姑各说各的一套，话说半句，不吵到底
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - addressing_task: 旁白称姑姑；谭正阳当面叫姑姑「姑」，叫老周「周叔」，叫孙姨「孙姨」
+- attribution_task: 老李、老周都是男的，与谭正阳同场，主角开口写「谭正阳说」「谭正阳问」；老李、老周、孙姨各自用称呼起头，不用「他」代指男主角
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
