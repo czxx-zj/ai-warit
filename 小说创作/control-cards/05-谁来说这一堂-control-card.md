@@ -32,10 +32,10 @@
 - final_title_recheck: 已复核，锁定「谁来说这一堂」。成稿重心在当面逼堂与报号顶回，章末转异常
 
 ## Recall And Return Pressure
-- retrieval_slice_targets: 第 4 章「除了你，别人碰不了」与那格缺位；第 2 章奶奶遗言「老东家，人我给你留着了」；第 1 章「等人齐了再点香」与空着的香炉
+- retrieval_slice_targets: 第 4 章那格缺位；第 2 章守夜规矩与奶奶遗言；第 1 章「等人齐了再点香」与空着的香炉
 - cold_lines_due: 无
-- characters_due_for_return: 谭正阳、谭玉兰
-- relationships_due_for_bridge: 谭正阳与谭玉兰
+- characters_due_for_return: 谭正阳、谭玉兰、王大爷
+- relationships_due_for_bridge: 谭正阳与谭玉兰、谭正阳与王大爷
 - foreshadows_due_or_overdue: F020 红布包不认火续力；F028 姓常的与街那头纪家同时埋线
 - world_rules_in_play: 堂口要有号；香停七天堂就空；报得出号才接得了堂；这屋里的东西按另一套规矩走
 
@@ -47,13 +47,14 @@
 ## Character Use
 - appearing_characters: 谭正阳、谭玉兰、纪广发（外来先生）、跟来的年轻小伙、王大爷
 - character_desires_this_chapter: 纪先生要把无主的堂接走；他要把这一堂留在奶奶名下
-- character_concealments_this_chapter: 纪先生看得出缺的那一格，却不挑明来路
+- character_concealments_this_chapter: 纪先生看得出缺的那一格，却不挑明来路；他给了纪家这条线和「胡三太爷」这个路引，却不解释缺的是什么
 - protagonist_personality_trigger: 开口之前先停一下；顶人不靠嗓门，靠把规矩和名分摆出来
 - character_increment: 他第一次当众报出奶奶的字号，从守灵的人变成接堂的人
 - arc_progression_point: 他留在这栋楼里的理由，从办丧事变成了接一件事
+- supporting_character_return: 王大爷最后一趟到场，说「你奶的号，这条街上二十年没人敢报」，再点一句「报了，就得接」
 
 ## Foreshadowing
-- new_plants: 纪广发与街那头纪家、堂口缺一格、报不出全堂就接不了堂、他非报不可那天再去找纪家；灯泡炸掉、整楼只有他家停电
+- new_plants: 纪广发与街那头纪家、堂口缺一格、报不出全堂就接不了堂、他非报不可那天再去找纪家、亮出「胡三太爷」四个字就有人指路；灯泡炸掉、总闸没坏、整楼只有他家两扇窗黑着
 - active_callbacks: 空香炉一直空着；「等人齐了再点香」第一次被搬到外人面前；缺的那一格
 - blocked_reveals: 缺的那一格是什么、纪家什么来路，必须不答
 
@@ -69,17 +70,17 @@
   - unit_label: 逼堂
     - goal: 把堂口的分量压到台面上
     - conflict: 纪先生说报不出号就接不了堂，这是规矩
-    - turn_or_aftershock: 他当众说「我接」，报出「胡三太爷」
+    - turn_or_aftershock: 姑姑报不出号，他当众说「我接」，报出「胡三太爷」；供桌上长明灯的火苗歪了一下又立起来
     - carryover: 屋里静下来，王大爷拐杖顿地
   - unit_label: 报号
     - goal: 全卷第一个大高潮的正面对峙
     - conflict: 纪先生要他报全一堂，他报不全
-    - turn_or_aftershock: 他改拿奶奶的规矩顶：碗摆着、香没点、等人齐了再点，人没齐这堂就还在她名下；纪先生收手
+    - turn_or_aftershock: 他先报出头一对「胡三太爷、胡三太奶」，往下念不出声，改说「报得出几个，算几个」；再拿奶奶的规矩顶：香没动不是断了，是有人交代过不许点，人没齐这堂就还在她名下；纪先生收手
     - carryover: 纪先生撂下「缺的那一格，等你非报不可了来找我」
   - unit_label: 夜里的灯
     - goal: 结算并升级到空间层面
     - conflict: 他刚顶回外人，屋里灯泡就炸
-    - turn_or_aftershock: 整屋没电，楼道公用电路却好好的，整栋楼只有他家两扇窗黑着
+    - turn_or_aftershock: 他从奶奶的旧物里翻出新灯泡换上，还是不亮；总闸扳上去全屋没反应，楼道声控灯却应脚步亮着；他穿棉袄下楼，站在雪地里抬头看，六层楼只有他家两扇窗黑着，那盏灯是他当天下午刚换的
     - carryover: 章末钩子
 
 ## Theme Pressure
@@ -98,9 +99,9 @@
 - paragraph_rhythm_task: 叙事段保持 2 至 4 句，报号与对峙处用短句段递进
 - short_paragraph_license: 报号、灯泡炸、章末
 - pseudo_style_to_avoid: 把堂口写成招式展示；术语堆砌；靠空行伪造节奏
-- required_effects: 供桌上碗口冲门、纪先生只看不碰、长明灯火苗歪了一下、拐杖顿地、玻璃碴落在手背、整楼只有他家两扇窗黑着
-- optional_effects: 帆布包、棉帽子、声控灯、雪地
-- forbidden_drift: 不得出现鬼、仙家等直白称谓；不得给停电一个明确的超自然因果；不得让纪先生解释堂口体系
+- required_effects: 供桌上碗口冲门、纪先生只看不碰、纪先生脚上的雪没跺、长明灯火苗歪了一下、王大爷拐杖顿地、玻璃碴落在手背、旧灯泡包装纸上的折印、新灯泡换上也不亮、总闸没坏、整楼只有他家两扇窗黑着
+- optional_effects: 磨破角的帆布包、棉帽子、声控灯、雪地
+- forbidden_drift: 不得出现鬼、仙家等直白称谓；不得给停电一个明确的超自然因果；不得让纪先生解释堂口体系；不得把纪先生写成跳脸反派
 - language_signature_task: 短句，克制，顶人不喊，靠规矩与名分定输赢
 - dialogue_task: 逼堂写成短句来回，他不抢话，一句把日子的规矩点清
 - suspense_task: 主未知一句话说清，缺的那一格是什么
@@ -148,4 +149,4 @@
 - opening_hook_type: 悬念钩
 
 ## Ending Hook
-- chapter_end_hook: 他站在楼下的雪地里，六层楼只有他家那两扇窗黑着；那盏灯，是他刚换的
+- chapter_end_hook: 他站在楼下的雪地里，六层楼只有他家那两扇窗黑着；那盏灯，是他刚才换上的
