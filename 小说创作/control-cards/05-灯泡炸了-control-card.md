@@ -128,6 +128,7 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 断电与灯泡炸裂处用短句加动作，声音不靠形容词堆
+- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
 - wording_task: 写声响用具体物象与身体反应，禁用「仿佛」「似乎」连用
 - plausibility_task: 停电、找电工按老楼实际流程写；不写只有气势、经不起问的句子
 - paragraph_task: 屋里屋外切换靠动作与时间过渡，不用连接词起句

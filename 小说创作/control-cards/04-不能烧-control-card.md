@@ -128,6 +128,7 @@
 ## Human Writing Check
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 老辈人议事段落长短不齐，避免多人开口写成等长排段
+- camera_task: 镜头只在谭正阳身上。反应写成动作或身体感觉，想到的话直接写出来，不用「他觉得」「他忽然想起」引出
 - wording_task: 方言词与语气词原样保留，四字格连用即改
 - plausibility_task: 老辈人议事按本地人情往来的实际场面写；不写只有气势、经不起问的句子
 - paragraph_task: 谁的连续动作跟谁同段，说话人切换才另起
