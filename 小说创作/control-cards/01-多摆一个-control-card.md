@@ -84,7 +84,7 @@
   - unit_label: 收尾
     - goal: 把不安留在日常里
     - conflict: 摆碗不点香，违反奶奶自己的规矩
-    - turn_or_aftershock: 姑姑说等人齐了再点，香炉一直空着
+    - turn_or_aftershock: 人都走净了，姑姑还是那句等人齐了再点，香炉一直空着；他把饭前那句「人齐了」和她这两句话对上了，对不上
     - carryover: 章末钩子
 
 ## Theme Pressure
@@ -153,4 +153,4 @@
 - opening_hook_type: 信息钩
 
 ## Ending Hook
-- chapter_end_hook: 人走净了，桌子收了，供桌上那副碗筷还摆着，碗口冲着门，香炉里一支香也没有；姑姑站在供桌前没动，他那句没问出口
+- chapter_end_hook: 饭前他说人齐了，姑姑说多摆一个；这会儿人走净了，姑姑还是那句等人齐了再点。他对不上，也不知道她还等谁
