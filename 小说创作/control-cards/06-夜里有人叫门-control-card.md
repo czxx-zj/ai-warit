@@ -133,6 +133,7 @@
 - paragraph_task: 断电过夜按动作与时辰推进，不靠空行与连接词造势
 - dialogue_task: 门外那声用奶奶的调子，只给听觉，不解释
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
+- addressing_task: 旁白称姑姑；门外用「正」「阳」两下叫他，跟奶奶生前一个叫法
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

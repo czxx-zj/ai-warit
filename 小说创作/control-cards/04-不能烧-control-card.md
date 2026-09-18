@@ -133,6 +133,7 @@
 - paragraph_task: 谁的连续动作跟谁同段，说话人切换才另起
 - dialogue_task: 意见冲突靠打断与半句话体现，不写成轮流陈述
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
+- addressing_task: 二姨叫姑姑「玉兰」，全名只此一次；姑姑称谭正阳「我侄儿」，使唤他叫「小阳」；姑姑对老辈人提死者说「我妈」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

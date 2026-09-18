@@ -133,6 +133,7 @@
 - paragraph_task: 院里院外按视角移动切段，不用「与此同时」类连接词
 - dialogue_task: 孙姨与姑姑各说各的一套，话说半句，不吵到底
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
+- addressing_task: 旁白称姑姑；谭正阳当面叫姑姑「姑」，叫老周「周叔」，叫孙姨「孙姨」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control

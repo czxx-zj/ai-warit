@@ -133,6 +133,7 @@
 - paragraph_task: 归置过程按动作推进，不用「随后」「接着」这类连接词串段
 - dialogue_task: 姑姑「你别碰它」一句到底，不补解释
 - dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
+- addressing_task: 旁白称姑姑，不写全名；姑姑叫谭正阳「小阳」；姑姑对老辈人提死者说「我妈」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
