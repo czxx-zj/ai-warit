@@ -53,7 +53,7 @@
 - arc_progression_point: 他已经知道身上有东西，只是不知道那是什么，也从没跟人说过
 
 ## Foreshadowing
-- new_plants: 供桌上的旧碗筷、碗口冲着门、香炉是空的；表舅当众打听房本、被顶回、撂下「头七过了我再来」；姑姑电话里不肯说奶奶哪天走的
+- new_plants: 供桌上的旧碗筷、碗口冲着门、香炉是空的；表舅当众打听房本，加码到人情账上，被顶回后撂下「头七过了我再来」；姑姑电话里不肯说奶奶哪天走的
 - active_callbacks: 无
 - blocked_reveals: 碗是给谁的，必须不答
 
@@ -62,29 +62,29 @@
 - planned_unit_count: 4
 - scene_units:
   - unit_label: 到场
-    - goal: 建立空间与人物
+    - goal: 建立空间与人物，开局先给一次小顺气点
     - conflict: 姑姑把他当客人
-    - turn_or_aftershock: 他被排除在操办之外
-    - carryover: 这种被排除感会在卷一反复回压
+    - turn_or_aftershock: 灵棚长明灯的灯芯掐短了半指，火苗立不住，他转灯罩背风让火苗立起来；棚口老太太因此停脚，回头又看一眼灯
+    - carryover: 这一手落在师承与感应上，不给解释；他被排除在操办之外的感受会在卷一反复回压
   - unit_label: 吊唁
     - goal: 建立熟人社会与人情压力
-    - conflict: 没人提死者
-    - turn_or_aftershock: 王大爷的手很凉
-    - carryover: 老头是后续档案线索的入口
+    - conflict: 没人提死者，邻居漏出「老刘家那边先来人了」
+    - turn_or_aftershock: 他反问「谁是老刘家」，没人答；王大爷的手很凉，嘴动一下没出声
+    - carryover: 老头是后续档案线索的入口；老刘家先来人成为第二处对不上
   - unit_label: 表舅
     - goal: 开篇小高潮，让他当众站住脚
-    - conflict: 表舅当着人问房本，问他还要不要这个家
-    - turn_or_aftershock: 他先停一下认清是不是自己要说的，回一个「要」，把事推到头七之后
-    - carryover: 表舅撂下头七再来，给第 3 章逼房本埋线
+    - conflict: 表舅当着人问房本，再加码到「谁伺候的」，逼他当着姑姑答
+    - turn_or_aftershock: 他先停一下认清是不是自己要说的，回一个「要」，接一句「我姑伺候的，我认。你伺候过几天，当众说一遍」，把话推到他奶出殡那天
+    - carryover: 表舅撂下「头七过了我再来」，给第 3 章逼房本埋线
   - unit_label: 摆碗
     - goal: 投放本章核心
-    - conflict: 人齐了，姑姑要多摆一个
-    - turn_or_aftershock: 那个碗被端到供桌，配上一副旧碗筷
+    - conflict: 人齐了，姑姑要多摆一个；碗端上供桌，配上一副旧碗筷
+    - turn_or_aftershock: 他当着姑姑点破这副碗筷三年不动一回、爷爷走后下来过一次只摆三天，姑姑的手停了一下，什么也没答
     - carryover: 「给看家的」成为卷一的第一个名词悬念
   - unit_label: 收尾
     - goal: 把不安留在日常里
     - conflict: 摆碗不点香，违反奶奶自己的规矩
-    - turn_or_aftershock: 人都走净了，姑姑还是那句等人齐了再点，香炉一直空着；他把饭前那句「人齐了」和她这两句话对上了，对不上
+    - turn_or_aftershock: 人都走净了，姑姑还是那句等人齐了再点，香炉一直空着；他伸手碰香炉，炉壁是凉的；他把饭前那句「人齐了」和她这两句话对上了，对不上
     - carryover: 章末钩子
 
 ## Theme Pressure
@@ -103,7 +103,7 @@
 - paragraph_rhythm_task: 叙事段保持 2 至 4 句，收尾用单句段
 - short_paragraph_license: 仅章末
 - pseudo_style_to_avoid: 只说不给证据、空行伪造节奏、术语堆砌
-- required_effects: 煤味、香灰味、薄冰、豁口碗沿
+- required_effects: 煤味、香灰味、薄冰、豁口碗沿、樟脑味、瓷碰瓷的轻响
 - optional_effects: 电视里的人声作为反差背景
 - forbidden_drift: 不得出现恐怖、诡异、阴森一类评价词
 - language_signature_task: 短句，情绪压住不说；不许拿量、算、对账、画图当旁白的解释
@@ -153,4 +153,5 @@
 - opening_hook_type: 信息钩
 
 ## Ending Hook
-- chapter_end_hook: 饭前他说人齐了，姑姑说多摆一个；这会儿人走净了，姑姑还是那句等人齐了再点。他对不上，也不知道她还等谁
+- chapter_end_hook: 饭前他说人齐了，姑姑说多摆一个；这会儿人走净了，姑姑还是那句等人齐了再点。他伸手碰香炉，炉壁是凉的。他对不上，也不知道她还等谁
+- delivered_revision: 2026-09-18 按爽文方向定稿。加三处赢面（长明灯、反问老刘家、表舅当众打回），摆碗改为当场数，表舅撂话按控制卡归表舅。原拟章末「炉底新灰带温」已删，该惊点留给第 2 章无火有香灰味
