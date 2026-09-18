@@ -7,10 +7,10 @@
 - primary_style: 恐怖
 - support_style: 悬念
 - paragraph_mode: web-serial-natural
-- style_intensity: 中。开篇章即大高潮：进章第一句就在表舅逼房本的场上，赢面与恐惧同一下落地，后半只保留持续不对劲的余压，不做大惊吓
+- style_intensity: 中。开篇章即大高潮：进章第一句就在表舅逼地契的场上，赢面与恐惧同一下落地，后半只保留持续不对劲的余压，不做大惊吓
 
 ## Chapter Mission
-- core_goal: 开篇直接在大高潮上：表舅当众逼房本，主角嘴里出来一句自己没准备的话，把表舅夜里来踩点的事当众抖开，人当场退；随后建立写实表层，投放第一处细思极恐，收在空香炉上
+- core_goal: 开篇直接在大高潮上：表舅当众逼地契，主角嘴里出来一句自己没准备的话，把表舅夜里来踩点的事当众抖开，人当场退；随后建立写实表层，投放第一处细思极恐，收在空香炉上
 - chapter_tier: 大高潮（第 1 章）
 - required_plotlines: L5 本地丧事起手，L1 话不是自己的第一击，L3 家族亏欠埋种子
 - required_prior_debts: 谭正阳欠奶奶一次回应，开篇即存在
@@ -29,7 +29,7 @@
   - 回来的那天下了雪
 - working_title: 多摆一个
 - spoiler_risk: 低。反常陈述制造「多摆一个什么」的悬念，不泄露碗的用途
-- final_title_recheck: 已复核，锁定「多摆一个」。开篇大高潮落在表舅当众逼房本与那句不是自己的话上，主线仍收在碗与香炉上
+- final_title_recheck: 已复核，锁定「多摆一个」。开篇大高潮落在表舅当众逼地契与那句不是自己的话上，主线仍收在碗与香炉上
 
 ## Recall And Return Pressure
 - retrieval_slice_targets: 无，开篇章
@@ -40,7 +40,7 @@
 - world_rules_in_play: 仅民俗表层，不解释体系
 
 ## Conflict
-- external_conflict: 表舅当众逼房本，他用一句不该知道的话把表舅钉住，再把事推到头七之后
+- external_conflict: 表舅当众逼地契，他用一句不该知道的话把表舅钉住，再把事推到头七之后
 - internal_conflict: 那句话不是他准备的，却从他嘴里顺顺当当地出来；他要面对的先是自己的嘴
 - relational_conflict: 姑姑独自操办一切，把他当客人；表舅当众试探他算不算这个家的人
 
@@ -53,7 +53,7 @@
 - arc_progression_point: 他已经知道身上有东西，只是不知道那是什么，也从没跟人说过
 
 ## Foreshadowing
-- new_plants: 第 1 章第一句就是表舅问房本，主角答出的是「你昨儿夜里来过……站到十一点，抽了三根烟，没上来」，而他昨儿在火车上（F031）；供桌上一只碗加一双旧筷子、碗口冲着门、香炉是空的；表舅被顶回后撂下「头七过了我再来」；姑姑电话里不肯说奶奶哪天走的
+- new_plants: 第 1 章第一句就是表舅问地契，主角答出的是「你昨儿夜里来过……站到十一点，抽了三根烟，没上来」，而他昨儿在驿车上（F031）；供桌上一只碗加一双旧筷子、碗口冲着门、香炉是空的；表舅被顶回后撂下「头七过了我再来」；姑姑捎讯时不肯说奶奶哪天走的
 - active_callbacks: 无
 - blocked_reveals: 碗是给谁的，必须不答
 
@@ -61,16 +61,16 @@
 - scene_pressure_shape: 高潮开场转余压收束
 - planned_unit_count: 5
 - scene_units:
-  - unit_label: 逼房本
+  - unit_label: 逼地契
     - goal: 开篇即大高潮，第一句就在场上
-    - conflict: 表舅当众问房本上写谁的名，主角把话在嘴里压了一下，压住的是「等头七过了再说」
-    - turn_or_aftershock: 出来的是另一句：表舅昨儿夜里在楼底下站到十一点，抽了三根烟，没上来。表舅先白后红，邻居老太太当场作证楼下停过一辆车
-    - carryover: F031 落地，第 1 章就把底牌亮给读者；表舅撂下「头七过了我再来」，给第 3 章逼房本埋线
+    - conflict: 表舅当众问地契上写谁的名，主角把话在嘴里压了一下，压住的是「等头七过了再说」
+    - turn_or_aftershock: 出来的是另一句：表舅昨儿夜里在院门口站到十一点，抽了三根烟，没上来。表舅先白后红，邻居老太太当场作证院外停过一辆车
+    - carryover: F031 落地，第 1 章就把底牌亮给读者；表舅撂下「头七过了我再来」，给第 3 章逼地契埋线
   - unit_label: 吊唁
     - goal: 建立熟人社会与人情压力
     - conflict: 没人提死者，邻居漏出「老刘家那边先来人了」
-    - turn_or_aftershock: 他反问「谁是老刘家」，没人答；王大爷的手很凉，嘴动一下没出声；表舅把话头拽回房本，加码到「谁伺候的」，被他顶回并约出殡那天当众重说
-    - carryover: 老头是后续档案线索的入口；老刘家先来人成为第二处对不上
+    - turn_or_aftershock: 他反问「谁是老刘家」，没人答；王大爷的手很凉，嘴动一下没出声；表舅把话头拽回地契，加码到「谁伺候的」，被他顶回并约出殡那天当众重说
+    - carryover: 老头是后续旧册线索的入口；老刘家先来人成为第二处对不上
   - unit_label: 灵棚
     - goal: 让主角回到具体手艺上，给一处可看见的异常
     - conflict: 棚里的长明灯灯芯掐短了半指，火苗立不住，油快见底
@@ -91,7 +91,7 @@
 - human_truth_exposed: 亲人用沉默保护你，同时把你排除在外
 - central_question_pressure: 第零步，他已经知道有东西，只是不肯细想
 - value_collision: 谭正阳的理性习惯与家里不能问的规矩
-- social_or_era_pressure: 单位制解体后的老楼、散了的厂子、只剩人情
+- social_or_era_pressure: 山门制解体后的老宅、散了的旧东家、只剩人情
 - motif_or_image_return: 供桌、碗筷、门朝向
 
 ## Style Execution
@@ -103,14 +103,14 @@
 - paragraph_rhythm_task: 叙事段保持 2 至 4 句，收尾用单句段
 - short_paragraph_license: 仅章末
 - pseudo_style_to_avoid: 只说不给证据、空行伪造节奏、术语堆砌
-- required_effects: 煤味、香灰味、薄冰、豁口碗沿、樟脑味、瓷碰瓷的轻响
-- optional_effects: 电视里的人声作为反差背景
+- required_effects: 炭味、香灰味、薄冰、豁口碗沿、樟脑味、瓷碰瓷的轻响
+- optional_effects: 隔壁的话匣子声作为反差背景
 - forbidden_drift: 不得出现恐怖、诡异、阴森一类评价词
 - language_signature_task: 短句，情绪压住不说；不许拿量、算、对账、画图当旁白的解释
 - dialogue_task: 用姑姑的祈使句建立她的控制欲
 - suspense_task: 主未知一句话说清，碗是给谁的
-- structure_task: 进章第一句就在表舅逼房本的场上，把大高潮放在开头；中段回到灵棚与吊唁做余压，后段落到摆碗不点香，章末留在空香炉上
-- authenticity_focus: 东北小城白事细节，术语零出现
+- structure_task: 进章第一句就在表舅逼地契的场上，把大高潮放在开头；中段回到灵棚与吊唁做余压，后段落到摆碗不点香，章末留在空香炉上
+- authenticity_focus: 北地落雁镇白事细节，术语零出现
 - hook_type: 信息钩加情绪钩
 - closure_type: 一顿饭吃完，人散，香炉空着
 - theme_landing_action: 他站在供桌前，那一句没再问出口
@@ -118,14 +118,14 @@
 ## Risk Scan
 - missing_information: 奶奶去世的具体原因暂时留白
 - conflicts_found: 无
-- continuity_risks: 王大爷需在后续档案章回收，否则成废棋
+- continuity_risks: 王大爷需在后续查册章回收，否则成废棋
 - forgotten_element_risk: 谭正阳的亏欠需在卷二前再碰一次
 - trope_convenience_risk: 避免把姑姑写成单纯恶人，她的沉默要有成本
 - user_branch: 无
 
 ## Benchmark Check
 - benchmark_group: 恐怖悬疑，热度与口碑双高
-- hard_gates: 开篇三千字内不得出现仙家、鬼等直白称谓，不得出现完整怪物
+- hard_gates: 开篇三千字内不得出现灵将、鬼等直白称谓，不得出现完整怪物
 - down_weighted_checks: 本章为铺垫章，允许低烈度，不强制大回报
 - authenticity_risk: 白事流程写错会破坏可信表层
 - failed_dimensions: 待审
@@ -149,9 +149,9 @@
 - next_line_auto_entry: no
 
 ## Opening Hook
-- opening_hook: 表舅当众问房本上写谁的名，主角把话在嘴里压了一下，出来的不是他准备的那句，是「表舅，你昨儿夜里来过。你在楼底下站到十一点，没上来」；昨儿夜里他在火车上，这话本不该他知道
+- opening_hook: 表舅当众问地契上写谁的名，主角把话在嘴里压了一下，出来的不是他准备的那句，是「表舅，你昨儿夜里来过。你在院门口站到十一点，没上来」；昨儿夜里他在驿车上，这话本不该他知道
 - opening_hook_type: 动作钩加信息钩
 
 ## Ending Hook
 - chapter_end_hook: 饭前他说人齐了，姑姑说多摆一个；这会儿人走净了，姑姑还是那句等人齐了再点。他伸手碰香炉，炉壁是凉的。他对不上，也不知道她还等谁
-- delivered_revision: 2026-09-18 按作者新要求重写：第 1 章提到大高潮，开篇即在场上，不加路上铺垫。核心赢面改为「话不是自己的」第一次击穿，表舅当场退；原「一句话噎住」的写法废弃，表舅那段口舌与「我姑伺候的我认」保留在后半作二次顶撞。姑姑电话里的三句问答压成一句带过，供桌筷子与空香炉的钩子不动
+- delivered_revision: 2026-09-18 按作者新要求重写：第 1 章提到大高潮，开篇即在场上，不加路上铺垫。核心赢面改为「话不是自己的」第一次击穿，表舅当场退；原「一句话噎住」的写法废弃，表舅那段口舌与「我姑伺候的我认」保留在后半作二次顶撞。姑姑捎讯时的三句问答压成一句带过，供桌筷子与空香炉的钩子不动

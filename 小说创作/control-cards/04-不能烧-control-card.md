@@ -31,7 +31,7 @@
 - final_title_recheck: 已复核，锁定「不能烧」。成稿重心在长辈失态与交接，未偏移
 
 ## Recall And Return Pressure
-- retrieval_slice_targets: 第 3 章翻出的红布包；第 1 章邻居口中的「出马，老刘，该来的」；第 2 章奶奶临终说「少一个」
+- retrieval_slice_targets: 第 3 章翻出的红布包；第 1 章邻居口中的「引灵，老刘，该来的」；第 2 章奶奶临终说「少一个」
 - cold_lines_due: 无
 - characters_due_for_return: 谭正阳、谭玉兰、王大爷
 - relationships_due_for_bridge: 谭正阳与谭玉兰
@@ -90,8 +90,8 @@
 - human_truth_exposed: 老辈人拿命守的那点规矩，最后只能交给一个什么都不知道的人
 - central_question_pressure: 为什么是他
 - value_collision: 他认的讲道理，撞上这个家里认的认人
-- social_or_era_pressure: 老楼里的老辈人靠一辈子的人情与默契办事，没有一处可以落笔的凭据
-- motif_or_image_return: 茶几、铁盆、灶火上的蓝圈、纸灰
+- social_or_era_pressure: 老院里的老辈人靠一辈子的人情与默契办事，没有一处可以落笔的凭据
+- motif_or_image_return: 桌、铁盆、灶火上的蓝圈、纸灰
 
 ## Style Execution
 - internalized_strengths: 老辈人的对话质感、器物具体、留白稳
@@ -102,14 +102,14 @@
 - paragraph_rhythm_task: 叙事段保持 2 至 4 句，试烧处用短句段递进
 - short_paragraph_license: 两次试烧、二姨的手、章末
 - pseudo_style_to_avoid: 把不认火写成招式展示；术语堆砌；靠空行伪造节奏
-- required_effects: 四十瓦灯、拐杖点地、纸灰的形状、白烟、灶眼上的蓝圈、布上的灰一弹就掉
-- optional_effects: 棉袄、袖筒、暖气片、声控灯
-- forbidden_drift: 不得解释堂单与守堂体系；不得出现仙家、鬼等直白称谓；不得让火点不着显得像显摆
+- required_effects: 堂屋那盏灯、拐杖点地、纸灰的形状、白烟、灶眼上的蓝圈、布上的灰一弹就掉
+- optional_effects: 棉袄、袖筒、火墙、廊灯
+- forbidden_drift: 不得解释堂单与守堂体系；不得出现灵将、鬼等直白称谓；不得让火点不着显得像显摆
 - language_signature_task: 短句，克制；老辈人的话短，答不上来就不答
 - dialogue_task: 借老辈人互相拦话，把该说的都留在不说的部分
 - suspense_task: 主未知一句话说清，为什么是他
 - structure_task: 冷开场先把烧不着的结果摆在最前，再退回请人，中点转试烧，章末单句收
-- authenticity_focus: 东北老楼里老辈人凑一间屋议事的真实质感，术语零解释
+- authenticity_focus: 北地老宅里老辈人凑一间屋议事的真实质感，术语零解释
 - hook_type: 情绪钩加危机钩
 - closure_type: 一句话收在他从来没做过主上
 - theme_landing_action: 他把包塞到枕头底下；后半夜姑姑动过包，第二天包又回到他枕头底下
@@ -117,14 +117,14 @@
 ## Risk Scan
 - missing_information: 王大爷那句带话是当着人说的，奶奶具体怎么托付，本章不交代
 - conflicts_found: 无
-- continuity_risks: 试烧用的器具须是老楼家里现成的东西；赵老太太多一层身份须与第 1 章邻居吻合
-- forgotten_element_risk: 王大爷在门口看三楼那扇窗，须在后文有落点
+- continuity_risks: 试烧用的器具须是老宅家里现成的东西；赵老太太多一层身份须与第 1 章邻居吻合
+- forgotten_element_risk: 王大爷在门口看北屋那扇窗，须在后文有落点
 - trope_convenience_risk: 避免把不认火写成超自然展示，只写火变小、灰落下
 - user_branch: 无
 
 ## Benchmark Check
 - benchmark_group: 恐怖悬疑，热度与口碑双高
-- hard_gates: 不得出现仙家、鬼等直白称谓，不得出现完整怪物，不得解释体系
+- hard_gates: 不得出现灵将、鬼等直白称谓，不得出现完整怪物，不得解释体系
 - down_weighted_checks: 本章为铺垫章，允许低烈度，不强制大回报
 - authenticity_risk: 老辈人议事的口气若写得不地道，可信表层会破
 - failed_dimensions: 待审

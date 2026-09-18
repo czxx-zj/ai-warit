@@ -85,7 +85,7 @@
 - human_truth_exposed: 奶奶用规矩护他，护他的方式就是把他交出去
 - central_question_pressure: 他第一次怀疑那句遗言里被交代的人就是自己
 - value_collision: 他认的活人道理与奶奶认的老规矩
-- social_or_era_pressure: 老楼里的守夜，靠的是不成文的规矩与一个人的记性
+- social_or_era_pressure: 老院里的守夜，靠的是不成文的规矩与一个人的记性
 - motif_or_image_return: 香炉、碗口冲门、镜子、门帘
 
 ## Style Execution
@@ -104,7 +104,7 @@
 - dialogue_task: 借姑姑的复述放出遗言，问答节奏由他追问推进
 - suspense_task: 主未知一句话说清，老东家是谁
 - structure_task: 冷开场先把第七条规矩摆到台前，再退回落座交代的当下，中点转遗言，章末单句收
-- authenticity_focus: 东北守夜与临终交代的真实质感，术语零出现
+- authenticity_focus: 北地守夜与临终交代的真实质感，术语零出现
 - hook_type: 信息钩加指向自身的悬念
 - closure_type: 一个人在夜里把一句话想歪
 - theme_landing_action: 他把屋里的门窗都看过一遍，门帘垂着不动
@@ -119,7 +119,7 @@
 
 ## Benchmark Check
 - benchmark_group: 恐怖悬疑，热度与口碑双高
-- hard_gates: 不得出现仙家、鬼等直白称谓，不得出现完整怪物，不得解释体系
+- hard_gates: 不得出现灵将、鬼等直白称谓，不得出现完整怪物，不得解释体系
 - down_weighted_checks: 本章为铺垫章，允许低烈度，不强制大回报
 - authenticity_risk: 守夜规矩若写得不像本地人会说的，可信表层会破
 - failed_dimensions: 待审
