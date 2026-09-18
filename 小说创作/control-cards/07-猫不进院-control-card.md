@@ -52,7 +52,7 @@
 - arc_progression_point: 他不再只守着自家的门，开始去看院子；姑姑也从瞒着走到决定请人
 
 ## Foreshadowing
-- new_plants: 猫从奶奶走那天起不进院；孙姨娘家庙里的符；院门口那道猫停住的线正对着他家朝北的窗
+- new_plants: 猫从奶奶走那天起不进院；孙姨娘家庙里的符；院门口那道猫停住的线正对着他家朝北的窗；姑姑要请的人姓常；堂单上有一行顶头是个「常」字
 - active_callbacks: 香炉仍旧空着；长明灯；北阳台冻着的年货
 - blocked_reveals: 猫为什么进不了院，本章不答
 
@@ -78,8 +78,8 @@
   - unit_label: 连夜
     - goal: 落邻居的代价，逼姑姑请人
     - conflict: 后半夜老周来敲门，说媳妇怕得睡不着，要连夜去闺女家
-    - turn_or_aftershock: 车灯扫过窗户，两口子走了，院门口的猫还蹲着
-    - carryover: 姑姑说，明儿得请个人来
+    - turn_or_aftershock: 车灯扫过窗户，两口子走了，院门口的猫还蹲着；姑姑说该请个人来，请的是姓常的
+    - carryover: 他想起堂单上那行常字
 
 ## Theme Pressure
 - human_truth_exposed: 出事的时候，老邻居肯帮忙，也肯跑；规矩挡在日常和恐惧之间
@@ -103,7 +103,7 @@
 - language_signature_task: 短句，克制；方言词少而准；他话少，老周话碎
 - dialogue_task: 借孙姨请符与姑姑回绝，把两套规矩的说法摆出来
 - suspense_task: 猫为什么从奶奶走那天起就不进院
-- structure_task: 进章早，头七白天铺开，中点把猫推到台前，章末邻居连夜走
+- structure_task: 冷开场先把院门口那排猫与它们冲着的那扇窗摆出来，再回头七白天，中点把猫推到台前，章末邻居连夜走并落出请的人
 - authenticity_focus: 头七烧纸与家属楼院子的真实流程，术语零解释
 - hook_type: 危机钩加情绪钩
 - closure_type: 车灯扫窗，人被逼走，姑姑决定请人
@@ -129,13 +129,19 @@
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 猫与数两遍处用短句段，与日常长句交替，避免等长
 - wording_task: 猫只写动作、位置与朝向，不拟人化，不用比喻给不祥
+- plausibility_task: 头七烧纸、家属楼院子与邻居借车按本地实际做法写；不写只有气势、经不起问的句子
 - paragraph_task: 院里院外按视角移动切段，不用「与此同时」类连接词
 - dialogue_task: 孙姨与姑姑各说各的一套，话说半句，不吵到底
+- dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
 
+## Opening Hook
+- opening_hook: 五只猫蹲在院门口，一只也不进来。他提着灰桶绕过去，回头，五只猫脑袋齐刷刷跟着他，转到一半又都转回去，齐齐冲着楼上那扇窗。那扇窗是他家朝北的屋子
+- opening_hook_type: 悬念钩
+
 ## Ending Hook
-后半夜老周来敲门，带着媳妇连夜去闺女家；车灯扫过窗户，院门口那排猫还蹲在水泥台上，一只没进去
+- chapter_end_hook: 姑姑说「明儿得请个人来」，请的是姓常的，问住哪儿就不来了；他想起那块红布上，有一行顶头就是个「常」字

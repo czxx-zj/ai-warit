@@ -103,7 +103,7 @@
 - language_signature_task: 短句，克制；姑姑的话更短，以问句为主
 - dialogue_task: 借规矩走一遍问话，门外只叫名不报名
 - suspense_task: 门外那个声音为什么用奶奶的调子
-- structure_task: 进章晚，从黑着过日子的第二夜切入，中点叫门，章末落在调子上
+- structure_task: 冷开场先把门上那三下摆出来，再退回头七前一天白天，中点叫门，章末落在调子上
 - authenticity_focus: 老楼断电过夜与守夜问话的真实流程，术语零解释
 - hook_type: 悬念钩
 - closure_type: 一句话收在门外叫声像奶奶上
@@ -129,13 +129,19 @@
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 门外叫门段句长参差，紧张处用三五个字的短句，不许排比三连
 - wording_task: 恐惧只给声音、触感与时序错位，不写「说不出的」「无法形容」
+- plausibility_task: 断电过夜与守夜问话按本地老楼的实际做法写；不写只有气势、经不起问的句子
 - paragraph_task: 断电过夜按动作与时辰推进，不靠空行与连接词造势
 - dialogue_task: 门外那声用奶奶的调子，只给听觉，不解释
+- dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
 
+## Opening Hook
+- opening_hook: 门上响了三下。他睁开眼，楼道的声控灯刚灭，门底下那道黄跟着没了；第二遍三下比头一遍轻，像外头那个人也在等，等他先说一句什么
+- opening_hook_type: 悬念钩
+
 ## Ending Hook
-门外那个声音叫他，先叫一个字，停一下，再接上后一个字，跟奶奶一模一样；这楼里再没有第二个人这么叫他
+- chapter_end_hook: 门外那两声先叫一个字，停一下，再接上后一个字，跟奶奶一模一样；明天是头七，这楼里再没有第二个人这么叫他

@@ -103,7 +103,7 @@
 - language_signature_task: 短句，克制；姑姑的话短，答不上来就用禁令挡
 - dialogue_task: 借电工的排查走一遍安全解释，再让它失效
 - suspense_task: 主未知一句话说清，他还能不能走
-- structure_task: 进章晚，从留下来切入，中点转电工，章末单句收
+- structure_task: 冷开场先给出灯泡从里往外炸的断口与两天炸两只，再退回头七前几天，中点转电工，章末单句收
 - authenticity_focus: 东北老楼停电与找电工的真实流程，术语零解释
 - hook_type: 信息钩加危机钩
 - closure_type: 一句话收在只有他家黑着上
@@ -129,13 +129,19 @@
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 断电与灯泡炸裂处用短句加动作，声音不靠形容词堆
 - wording_task: 写声响用具体物象与身体反应，禁用「仿佛」「似乎」连用
+- plausibility_task: 停电、找电工按老楼实际流程写；不写只有气势、经不起问的句子
 - paragraph_task: 屋里屋外切换靠动作与时间过渡，不用连接词起句
 - dialogue_task: 找电工与邻居问话写成口语短句，答非所问照留
+- dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
 
+## Opening Hook
+- opening_hook: 灯泡是从里往外炸的。他收玻璃碴时看清了断口：灯丝断成两截，玻壳从里头崩开。那两天，屋里炸了两只
+- opening_hook_type: 危机钩
+
 ## Ending Hook
-整栋楼都亮着，只有他家三楼那两扇窗是黑的，他在楼下数了两遍，两遍对上
+- chapter_end_hook: 他在雪地里数了两遍整栋楼的亮窗，六层楼只有他家那两扇黑着；屋里那盏灯，是他刚换的

@@ -52,7 +52,7 @@
 - arc_progression_point: 从家里的一件旧物，转到家里交给他的一件事
 
 ## Foreshadowing
-- new_plants: 红布包不认火、奶奶托王大爷带的那句「得有人接」、二姨数不对、姑姑说的「放到它自己动」
+- new_plants: 红布包不认火、奶奶托王大爷带的那句「得有人接」、二姨数不对、姑姑说的「放到它自己动」；后半夜姑姑把包按进纸灰里又提起来，没点火；第二天包回到他枕头底下，而他记得那会儿包不在
 - active_callbacks: 奶奶数东西从第 2 章延续到二姨的手上
 - blocked_reveals: 谁接，必须不答；守堂是什么，必须不解释
 
@@ -78,7 +78,7 @@
   - unit_label: 交接
     - goal: 把责任推给谭正阳
     - conflict: 赵老太太接下话头又缩回去
-    - turn_or_aftershock: 姑姑把包塞给他，「这个家，除了你，别人碰不了」
+    - turn_or_aftershock: 姑姑把包塞给他，「这个家，除了你，别人碰不了」；后半夜她自己又把包按进纸灰里，来回几回，没点火
     - carryover: 章末钩子
 
 ## Theme Pressure
@@ -103,11 +103,11 @@
 - language_signature_task: 短句，克制；老辈人的话短，答不上来就不答
 - dialogue_task: 借老辈人互相拦话，把该说的都留在不说的部分
 - suspense_task: 主未知一句话说清，为什么是他
-- structure_task: 进章晚，从请人切入，中点转试烧，章末单句收
+- structure_task: 冷开场先把烧不着的结果摆在最前，再退回请人，中点转试烧，章末单句收
 - authenticity_focus: 东北老楼里老辈人凑一间屋议事的真实质感，术语零解释
 - hook_type: 情绪钩加危机钩
 - closure_type: 一句话收在他从来没做过主上
-- theme_landing_action: 他把包搁在枕头边上，灯没关
+- theme_landing_action: 他把包塞到枕头底下；后半夜姑姑动过包，第二天包又回到他枕头底下
 
 ## Risk Scan
 - missing_information: 王大爷那句带话是当着人说的，奶奶具体怎么托付，本章不交代
@@ -129,13 +129,19 @@
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 老辈人议事段落长短不齐，避免多人开口写成等长排段
 - wording_task: 方言词与语气词原样保留，四字格连用即改
+- plausibility_task: 老辈人议事按本地人情往来的实际场面写；不写只有气势、经不起问的句子
 - paragraph_task: 谁的连续动作跟谁同段，说话人切换才另起
 - dialogue_task: 意见冲突靠打断与半句话体现，不写成轮流陈述
+- dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
 
+## Opening Hook
+- opening_hook: 布烧不着。黄纸烧成一堆灰，红布包搁在灰上连边都没卷；煤气灶上再试，白烟散了，布还是红的
+- opening_hook_type: 悬念钩
+
 ## Ending Hook
-姑姑把红布包塞给谭正阳，说这个家除了他别人碰不了，而他从来没在这个家里做过主
+- chapter_end_hook: 后半夜姑姑把那个包按进纸灰里又提起来，来回几回，没点火；第二天包回到他枕头底下，可他记得那会儿包不在

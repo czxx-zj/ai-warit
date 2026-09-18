@@ -2,6 +2,29 @@
 
 仅供审计，不作为叙事真值来源。连续性与真值以 `08-dynamic-state.md` 与各标准文件为准。
 
+## 大纲与控制卡对齐最新正文
+
+- revised_at: 2026-09-18
+- cause: 正文经过加钩子与对话重排后，控制卡、章纲与伏笔台账还停在前一版颗粒度上，章末钩子与新增桥段没有登记，后续章节会照着旧版写
+- scope: 七张控制卡、`07-chapter-roadmap.md` 章末钩子栏、`06-foreshadow-ledger.md`、`08-dynamic-state.md`
+- method:
+  - 每张控制卡新增 `## Opening Hook` 段，记开局钩子原文与钩子类型
+  - 每张控制卡补 `plausibility_task`，把常理要求写成该章的具体检查项；补 `dialogue_format_task`，把说话人加冒号加双引号写成硬要求
+  - 各章 `structure_task` 改成冷开场再退时间线，`theme_landing_action` 与 `## Ending Hook` 按正文重写，并与控制卡前段的「章末钩子」指向对齐
+  - 章纲第 1 至 7 章的收尾栏改成与正文一致的落点，并注明章纲只保留章末钩子一栏，开局钩子归控制卡
+  - 台账新增 F026 表舅打听房本、F027 姑姑半夜动包、F028 姓常的；F002 补上「数鸡没数过人」这句
+  - 动态真值补第 1、3、4、7 章新落的事实、张开的债与悬念区，确认老周家是借车连夜去闺女家避一避
+- checks:
+  - 脚本核对：七张控制卡的章节小节数量与 `Opening Hook`、`Ending Hook` 两段齐全
+  - 脚本核对：控制卡 `Ending Hook` 与章纲收尾栏指向同一件事
+  - 全库核对：不再有「老周家连夜搬走」这类与「借车去闺女家」冲突的说法
+- updated_files:
+  - control-cards/01 至 07: 补 `Opening Hook`、两项 task，重写结构任务与章末钩子
+  - 07-chapter-roadmap.md: 第 1 至 7 章收尾栏与钩子说明
+  - 06-foreshadow-ledger.md: 新增 F026、F027、F028，F002 补细节
+  - 08-dynamic-state.md: 第 1、3、4、7 章事件、债与悬念
+- open_question: 无
+
 ## 修掉生造词与假钩子
 
 - revised_at: 2026-09-18

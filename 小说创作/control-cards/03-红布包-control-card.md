@@ -52,7 +52,7 @@
 - arc_progression_point: 他从怀疑奶奶知道他身上有东西，转到怀疑家里有一笔没还的账
 
 ## Foreshadowing
-- new_plants: 堂单缺位、成对名号缺了半边、被抹得发白的那一格、姑姑叠布的手法很熟、姑姑没交代这个包怎么办
+- new_plants: 堂单缺位、成对名号缺了半边、被抹得发白的那一格、姑姑叠布的手法很熟、姑姑没交代这个包怎么办；「她教过你数鸡，没教过你数人」；他照着记忆把那一对画在纸上，右边留空
 - active_callbacks: 柜子最上层与旧碗筷的来源；奶奶数东西；屋里有一处对不上
 - blocked_reveals: 那一格原本是谁的，必须不答；堂单是什么，必须不解释
 
@@ -78,7 +78,7 @@
   - unit_label: 姑姑收走红布包
     - goal: 把物件压力转到关系压力
     - conflict: 姑姑先看门口再看窗户，才开口
-    - turn_or_aftershock: 「你别碰它」，并说自己就漏了交代这个包
+    - turn_or_aftershock: 姑姑把布抽走，一句「你别碰它」，并说自己就漏了交代这个包
     - carryover: 章末钩子
 
 ## Theme Pressure
@@ -103,11 +103,11 @@
 - language_signature_task: 短句，克制，姑姑的话用短答与祈使
 - dialogue_task: 借姑姑的沉默与一句「没交代」加压，问答由他追问推进
 - suspense_task: 主未知一句话说清，那一格原本是谁的
-- structure_task: 进章晚，从归置切入，中点转发现，章末单句收
+- structure_task: 冷开场先给出殡当天姑姑没掉泪与旁人一句「心真硬」，再退回发现红布包的时间线，中点转发现，章末单句收
 - authenticity_focus: 东北老楼丧事与遗物归置的真实质感，术语零解释
 - hook_type: 悬念钩
 - closure_type: 一句话收在一格空白上
-- theme_landing_action: 他数完那对，把布合在手里，等姑姑回来
+- theme_landing_action: 他照着记忆把那一对画到纸上，左边有字，右边空着
 
 ## Risk Scan
 - missing_information: 堂单上写了什么，本章不给全貌
@@ -129,13 +129,19 @@
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 遗物归置写成动作链，长短句交替，形容词删后句子仍要立住
 - wording_task: 红布包只写颜色、手感、折痕与动作，不写评价词；术语零解释
+- plausibility_task: 丧事与遗物归置按本地老楼的实际流程写；不写只有气势、经不起问的句子
 - paragraph_task: 归置过程按动作推进，不用「随后」「接着」这类连接词串段
 - dialogue_task: 姑姑「你别碰它」一句到底，不补解释
+- dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
 
+## Opening Hook
+- opening_hook: 出殡那天姑姑没掉一滴眼泪，有人小声说她心真硬；那天下午，他在柜子最上层摸到一块布，布是软的，捆着一层红绳
+- opening_hook_type: 情绪钩加悬念钩
+
 ## Ending Hook
-堂单上的名号是一对一对的，独有一对缺了半边，空着的那一格被人抹得发白，位置却是留出来的
+- chapter_end_hook: 他照着记忆把那一对画在纸上，左边写了认得的字，右边空着；姑姑那句「人少一个，你看不见」跟着他上了炕

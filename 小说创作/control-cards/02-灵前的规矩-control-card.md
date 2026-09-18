@@ -103,7 +103,7 @@
 - language_signature_task: 短句，克制，姑姑的话用祈使与短答
 - dialogue_task: 借姑姑的复述放出遗言，问答节奏由他追问推进
 - suspense_task: 主未知一句话说清，老东家是谁
-- structure_task: 进章晚，从交代规矩切入，中点转遗言，章末单句收
+- structure_task: 冷开场先把第七条规矩摆到台前，再退回落座交代的当下，中点转遗言，章末单句收
 - authenticity_focus: 东北守夜与临终交代的真实质感，术语零出现
 - hook_type: 信息钩加指向自身的悬念
 - closure_type: 一个人在夜里把一句话想歪
@@ -129,13 +129,19 @@
 - pass_line: 每千字判为机器痕迹处不超过 1
 - sentence_task: 守夜那几段用短句递进，规矩条目不作等长罗列
 - wording_task: 老辈人的话保留口语与语气词，不翻成书面语；规矩不加解释性从句
+- plausibility_task: 守夜规矩按本地老人会交代的口气写，一条是一件具体的忌讳；不写只有气势、经不起问的句子
 - paragraph_task: 对话与动作合段，不靠空行伪装节奏
 - dialogue_task: 一人一套口癖，反复用；对话不承担体系说明
+- dialogue_format_task: 对话写成说话人加说／问，接冒号再加双引号；每句带归属，无连续裸对话
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## Marathon Control
 - marathon_mode: no
 - next_line_auto_entry: no
+
+## Opening Hook
+- opening_hook: 姑姑交代了七条，前六条他都听懂了，第七条说到一半停下看他一眼：听见有人叫自己名字，别答应
+- opening_hook_type: 悬念钩
 
 ## Ending Hook
 - chapter_end_hook: 奶奶对着门口说「老东家，人我给你留着了」，而家里没有东家，她说的那个人，是不是他
