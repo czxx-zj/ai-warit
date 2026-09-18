@@ -10,9 +10,9 @@
 - style_intensity: 低至中。丧事收束，恐怖落在一件旧物上的一处空位，不做惊吓
 
 ## Chapter Mission
-- core_goal: 让堂单登场，把「缺位」变成新的主未知，并把奶奶那句「有一处对不上」对到实物上
+- core_goal: 让堂单登场，把「缺位」变成新的主未知，并把奶奶那句「少一个」对到实物上
 - required_plotlines: L3 家族亏欠推进，L5 丧事收束，L1 轻触
-- required_prior_debts: 第 1 章柜子最上层的旧碗筷必须回收；第 2 章奶奶数东西与「一处对不上」必须在本章对上
+- required_prior_debts: 第 1 章柜子最上层的旧碗筷必须回收；第 2 章奶奶数东西与「少一个」必须在本章对上
 
 ## Chapter Title
 - title_mode: 混合式，编号加短标题
@@ -31,7 +31,7 @@
 - final_title_recheck: 已复核，锁定「红布包」。成稿重心在发现与缺位，未偏移
 
 ## Recall And Return Pressure
-- retrieval_slice_targets: 第 1 章柜子最上层的旧碗筷；第 2 章奶奶数东西、说屋有一处对不上
+- retrieval_slice_targets: 第 1 章柜子最上层的旧碗筷；第 2 章奶奶数东西、说少一个
 - cold_lines_due: 无
 - characters_due_for_return: 谭正阳、谭玉兰、姓王老头
 - relationships_due_for_bridge: 谭正阳与谭玉兰
@@ -48,12 +48,12 @@
 - character_desires_this_chapter: 他想把空着的那一格问清楚
 - character_concealments_this_chapter: 谭玉兰收走堂单，藏起自己对它的了解
 - protagonist_personality_trigger: 数东西要从两头数、两遍对上才算数；量距离、看对不对得上
-- character_increment: 他第一次把奶奶的「对不上」与一件实物对上
+- character_increment: 他第一次把奶奶的「少一个」与一件实物对上
 - arc_progression_point: 他从怀疑奶奶知道他身上有东西，转到怀疑家里有一笔没还的账
 
 ## Foreshadowing
 - new_plants: 堂单缺位、成对名号缺了半边、被抹得发白的那一格、姑姑叠布的手法很熟、姑姑没交代这个包怎么办；「她教过你数鸡，没教过你数人」；他照着记忆把那一对画在纸上，右边留空
-- active_callbacks: 柜子最上层与旧碗筷的来源；奶奶数东西；屋里有一处对不上
+- active_callbacks: 柜子最上层与旧碗筷的来源；奶奶数东西；说她数着少一个
 - blocked_reveals: 那一格原本是谁的，必须不答；堂单是什么，必须不解释
 
 ## Scene Execution
@@ -74,7 +74,7 @@
     - goal: 本章核心投放
     - conflict: 他数不出那一格是谁的
     - turn_or_aftershock: 名号成对，独有一对缺了半边，空的那格被抹得发白
-    - carryover: 与奶奶「一处对不上」接上
+    - carryover: 与奶奶说的「少一个」接上
   - unit_label: 姑姑收走红布包
     - goal: 把物件压力转到关系压力
     - conflict: 姑姑先看门口再看窗户，才开口
