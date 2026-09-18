@@ -48,7 +48,7 @@
 - appearing_characters: 谭正阳、谭玉兰、王大爷（奶奶的老同事）、表舅、若干吊唁亲友
 - character_desires_this_chapter: 谭正阳想帮上忙、弄清状况，同时当众立住自己在这个家的位置
 - character_concealments_this_chapter: 谭玉兰知道碗是给谁的，不说
-- protagonist_personality_trigger: 该说的时候先停一下，认一认这句话是不是自己要说的；接话靠把日子和名分点清楚
+- protagonist_personality_trigger: 该说的时候先停一下，看这句话是不是自己要说的；接话靠把日子和名分点清楚
 - character_increment: 他从局外人变成当众接住话、并看见规则裂缝的人
 - arc_progression_point: 他已经知道身上有东西，只是不知道那是什么，也从没跟人说过
 
@@ -74,7 +74,7 @@
   - unit_label: 表舅
     - goal: 开篇小高潮，让他当众站住脚
     - conflict: 表舅当着人问房本，再加码到「谁伺候的」，逼他当着姑姑答
-    - turn_or_aftershock: 他先停一下认清是不是自己要说的，回一个「要」，接一句「我姑伺候的，我认。你伺候过几天，当众说一遍」，把话推到他奶出殡那天
+    - turn_or_aftershock: 他先停一下，话到嘴边过了一遍，回一个「要」，接一句「我姑伺候的，我认。你伺候过几天，当众说一遍」，把话推到他奶出殡那天
     - carryover: 表舅撂下「头七过了我再来」，给第 3 章逼房本埋线
   - unit_label: 摆碗
     - goal: 投放本章核心

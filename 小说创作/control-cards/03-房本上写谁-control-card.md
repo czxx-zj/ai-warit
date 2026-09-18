@@ -41,14 +41,14 @@
 
 ## Conflict
 - external_conflict: 表舅带两个刘家亲戚上门，当着家人的面要谈房本归属
-- internal_conflict: 他三年没回这个门，开口前得先认一认自己算不算这个家的人
+- internal_conflict: 他三年没回这个门，开口前得先掂量自己算不算这个家的人
 - relational_conflict: 姑姑当着外人把话交给他，是拿他挡，也是认他
 
 ## Character Use
 - appearing_characters: 谭正阳、谭玉兰、表舅、表舅带来的两个刘家亲戚、王大爷
 - character_desires_this_chapter: 表舅要趁头七把房子的事说定；他要把这件事推到头七之后
 - character_concealments_this_chapter: 谭玉兰知道房本之外还有别的说道，不在这时说
-- protagonist_personality_trigger: 开口之前先停一下，认一认这句话是不是自己要说的；接话靠把日子和名分点清楚
+- protagonist_personality_trigger: 开口之前先停一下，看这句话是不是自己要说的；接话靠把日子和名分点清楚
 - character_increment: 他从被当客人的晚辈，变成当众立住位置的人
 - arc_progression_point: 他开始把「这个家」当成自己要接的一件事
 
@@ -69,7 +69,7 @@
   - unit_label: 逼房本
     - goal: 全卷第一个小高潮
     - conflict: 表舅带着两个刘家亲戚上门，当面问房本上写谁；刘家那个花白头发的拿陪嫁柜子说事，说「我看的是往后」；表舅再逼一句「往后这院子谁管」
-    - turn_or_aftershock: 他先停一下认清是不是自己要说的，回「我奶的名」，再回「我管」，反问「你们今天来，是来送我奶，还是来分我奶的房子」，没人把话接下去；姑姑当面说「这屋的事，他说的算」
+    - turn_or_aftershock: 他把话在嘴里压了一下，回「我奶的名」，再回「我管」，反问「你们今天来，是来送我奶，还是来分我奶的房子」，没人把话接下去；姑姑当面说「这屋的事，他说的算」
     - carryover: 表舅撂下头七再来，家人关系重新排了一次
   - unit_label: 收碗筷
     - goal: 回收第 1 章旧碗筷
