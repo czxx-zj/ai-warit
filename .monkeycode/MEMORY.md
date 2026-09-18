@@ -30,6 +30,15 @@ This file records user instructions, preferences, and teachings for reference in
 
 ## Entries
 
+[User Instruction Summary]
+- Date: 2026-09-18
+- Context: 用户连续逐句校阅《小说创作》正文后，要求把我每次教的东西记住、以后都用上
+- Instructions:
+  - 作者逐句指出正文毛病时，除了改当前这句，还要做三件事：把这条规则写进 `小说创作/09-style-guide.md`（可执行、带正反例），回头扫一遍已写各章（`chapters/`）找同类句，并同步受影响的控制卡、`06-foreshadow-ledger.md`、`08-dynamic-state.md`、`logs/writing-log.md`。
+  - 每章开写前先读 `小说创作/09-style-guide.md` 的「用户已教规则总表」，交付前逐条过一遍；新规则当场补进该总表。
+  - 规则要写成看得见、数得出的判据（例如「同一意思比两回，留一处」），不写成「注意文笔」这类无法自检的提醒。
+  - 作者的判据高于既有文档：若总表或控制卡与作者当场指出的问题冲突，以作者为准，并回头改文档。
+
 [Project Knowledge Summary]
 - Date: 2026-09-18
 - Context: Discovered by Agent while committing and pushing 小说创作 chapter revisions
