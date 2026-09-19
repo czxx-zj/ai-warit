@@ -918,6 +918,27 @@
   - 奶奶的庙册页码与名字位置留到卷三
   - 爹娘那年水难在第 8 章起再落地
 
+## Chapter 8
+
+- drafted_at: 2026-09-19
+- mode: serialized
+- benchmark_check_ran: yes
+- delivered:
+  - chapters/08-箱子挪了半尺.md: 2623 汉字
+- punctuation_gate: 叹号 0、省略号 0、破折号 0
+- blacklist_gate: 形容词与 AI 腔黑名单零命中
+- retrieval_slice_used: 是，回收第 3 章西屋与褥子、第 5 章箱子与正月十五、第 7 章庙册那一格
+- forgotten_element_risk_action: 钱九第 6 章看箱子那一眼，本章让箱子被人挪过，线不断
+- continuity_fix: 爷爷的口径由「只说一句水凉了」改为「只出极短句，水凉了最常听见」，与已交付第 1 至 8 章一致；渡口簿只记号不记名，故结尾改用渡牌承接那一格，未动簿子
+- authenticity_pass_level: medium
+- post_authenticity_mini_recheck_ran: yes
+- marathon_mode: no
+- auto_advanced_to_next_chapter: no
+- primary_fix_origin: length
+- temporary_assumptions:
+  - 谁动过那口箱子，留作卷一后段的线
+  - 渡牌名下那块空地只写成本来的木料样子，不写成刻好的格
+
 ## 参考小说通读：大奉打更人
 
 - at: 2026-09-18
