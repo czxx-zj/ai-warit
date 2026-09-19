@@ -1002,6 +1002,27 @@
   - 谁给空灯添的油，留作卷一收束
   - 水里那张脸对的是哪一号，全书只写到对不上
 
+## Chapter 12
+
+- drafted_at: 2026-09-19
+- mode: serialized
+- benchmark_check_ran: yes
+- delivered:
+  - chapters/12-旧约.md: 2500 汉字
+- punctuation_gate: 叹号 0、省略号 0、破折号 0
+- blacklist_gate: 形容词与 AI 腔黑名单零命中
+- retrieval_slice_used: 是，回收第 1 章木牌三条规矩、第 6 章分段钱与他箍桩子、第 8 章押据、第 10 章方印、第 11 章空灯与灯芯
+- forgotten_element_risk_action: 第 10 章那枚方印本章落到旧约纸尾，与顾三娘手里那半张照的圆印对成一组，正月十五那条线接住
+- continuity_fix: 无
+- authenticity_pass_level: medium
+- post_authenticity_mini_recheck_ran: yes
+- marathon_mode: no
+- auto_advanced_to_next_chapter: no
+- primary_fix_origin: length
+- temporary_assumptions:
+  - 夜里凿石与刻牌的是谁，留作汛期一段
+  - 木牌第四行是什么字，留作卷一收束
+
 ## 参考小说通读：大奉打更人
 
 - at: 2026-09-18
