@@ -981,6 +981,27 @@
   - 方印是谁盖的，留作卷一收束
   - 阿绫在岔路口之前遇到什么，留作第 11 章起
 
+## Chapter 11
+
+- drafted_at: 2026-09-19
+- mode: serialized
+- benchmark_check_ran: yes
+- delivered:
+  - chapters/11-水里那张脸.md: 2506 汉字
+- punctuation_gate: 叹号 0、省略号 0、破折号 0
+- blacklist_gate: 形容词与 AI 腔黑名单零命中
+- retrieval_slice_used: 是，回收第 1 章水底浮脸与指甲缝的黑、第 6 章欠的夜船与那半段话、第 8 章后屋亮灯、第 9 章空灯、第 10 章车斗底下的灯芯
+- forgotten_element_risk_action: 第 10 章埋下的车与灯芯，本章让他亲手把芯捡起来，又让芯在半里路里消失
+- continuity_fix: 修正时间线。第 6 章原写老莫「搁了二十年」并让主角答「二十年前我还是个奶娃娃」，与第 1 章接灯四年、老莫撑船三十四年相冲；爷爷坐下改为四年前，老莫的岁数按第 6 章统一为五十上下
+- authenticity_pass_level: medium
+- post_authenticity_mini_recheck_ran: yes
+- marathon_mode: no
+- auto_advanced_to_next_chapter: no
+- primary_fix_origin: continuity
+- temporary_assumptions:
+  - 谁给空灯添的油，留作卷一收束
+  - 水里那张脸对的是哪一号，全书只写到对不上
+
 ## 参考小说通读：大奉打更人
 
 - at: 2026-09-18
