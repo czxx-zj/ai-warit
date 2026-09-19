@@ -11,7 +11,7 @@
 
 ## 本章任务
 
-- core_goal: 立起石桥镇、刻碑的活计、绝顶上那面榜；交出「他十岁那年姓被人改掉」这个扣
+- core_goal: 立起石桥镇、刻碑的活计、门后那张抄来的榜文；交出「他十岁那年姓被人改掉」这个扣
 - chapter_tier: 开篇章
 - required_plotlines: L1 名字起手；L2 师父埋种子；L5 四个人第一次露一个
 - required_prior_debts: 无，开篇即存在
@@ -58,19 +58,19 @@
 - planned_unit_count: 5
 - scene_units:
   - unit_label: 铺子里
-    - goal: 二十字内把刀扔进来，立起他刻碑的手，顺手把北边那面榜交给读者
+    - goal: 二十字内把刀扔进来，立起他刻碑的手，门后那张榜文把北边那面榜交给读者
     - conflict: 刀钉在墙上，步子踩雪过来
-    - turn_or_aftershock: 来人摸青石，说这是燕家的手法
+    - turn_or_aftershock: 来人按那一横，说这个手在北岭那面榜上见过
     - carryover: 那颗痣
   - unit_label: 认人
     - goal: 把「他姓什么」摆到台面
     - conflict: 他姓沈，来人偏说燕家；来人说得出只有家里人知道的痣
-    - turn_or_aftershock: 来人连他左腿的旧伤都知道
+    - turn_or_aftershock: 来人报得平，像念欠条；连他左腿的旧伤都知道
     - carryover: 有人找了他十年
   - unit_label: 出手
     - goal: 一场只有一次的出手，写疼，写收刀
     - conflict: 炭盆裂，左肩挨刀，他手里的刀被磕飞
-    - turn_or_aftershock: 他捡的是凿子，钻到对方胳膊底下，拧下那把刀，一刀两半
+    - turn_or_aftershock: 他捡的是凿子，左手一使劲，肩上口子又裂开；拧下那把刀，一刀两半
     - carryover: 他吐了
   - unit_label: 后山
     - goal: 处置尸体，拿到黑石片
@@ -78,9 +78,9 @@
     - turn_or_aftershock: 那半个字，是他师父下凿的刻法
     - carryover: 那块石头
   - unit_label: 灯下
-    - goal: 章末把师徒关系翻一层
+    - goal: 章末把师徒关系翻一层，给身体一个出口
     - conflict: 他报人死了，师父只问怎么死的
-    - turn_or_aftershock: 师父手背上的疤，跟死人一样
+    - turn_or_aftershock: 他手抖，蛋滚到桌上；师父手背上的疤，跟死人一样
     - carryover: 章末钩
 
 ## 主题
@@ -92,7 +92,7 @@
 
 ## 风格
 
-- required_effects: 栗木炭压雪响、石灰扬出去、刀柄麻绳让汗浸黑、血先凉后热、井台水盆、石片槽里抠不掉的红
+- required_effects: 栗木炭压雪响、石灰扬出去、刀柄麻绳让汗浸黑、血先凉后热、井台水盆、石片槽里抠不掉的红、门后那张字小得要贴上去找的榜文、抖得夹不住的蛋
 - forbidden_drift: 不许写招式名；不许旁白点评这招好；不许出现境界数值；不许写空气凝固
 - paragraph_rhythm_task: 打斗段一句一个动作，最短的段落三到五个字
 - dialogue_task: 来人话多而冷，师父全章四句
@@ -118,6 +118,6 @@
 
 ## 交付记录
 
-- delivered_revision: 2026-09-19 新书《榜上无名》第 1 章
-- word_count: 2896 汉字（去标题行）
+- delivered_revision: 2026-09-19 新书《榜上无名》第 1 章，推翻重写
+- word_count: 2713 汉字（去标题行）
 - self_check: 叹号 0，省略号 0，破折号 0，黑名单 0，不规范引语 0，裸对话 0
