@@ -31,6 +31,16 @@ This file records user instructions, preferences, and teachings for reference in
 ## Entries
 
 [User Instruction Summary]
+- Date: 2026-09-19
+- Context: 用户审阅《小说创作》换底后的设定与正文，指出旁白动不动就把世界运行硬套成「写本子、记账、算得明白、量的准、记忆好」这类核算式解释
+- Instructions:
+  - 正文与设定文档禁用账本式写法。不把世界规则与人物判断改写成一套核算动作：记账、对账、逐条记下、算得明白、量的准、记忆好、笔笔记着，一律不用。
+  - 判断力要写成手上的活计、看人的眼力、身体反应与器物细节；世界规则要写成单位、价钱、凭证、称谓、衣物、饭量、炭火这类可触摸的东西。
+  - 统一判据：这句话，屋里的人能不能用手、眼、耳在现场做出来。能做出来就留，否则换成能做的动作或物件。
+  - 具体拆解与替代对照表见 `小说创作/docs/07-大奉打更人-世界搭建与用词手法.md` 第五节。
+  - 用户要求世界观「有血有肉、接近真实」，凡遇抽象交代，先问能不能换成器物、价钱、称谓或身体感受。
+
+[User Instruction Summary]
 - Date: 2026-09-18
 - Context: 用户连续逐句校阅《小说创作》正文后，要求把我每次教的东西记住、以后都用上
 - Instructions:
@@ -63,3 +73,4 @@ This file records user instructions, preferences, and teachings for reference in
 - Instructions:
   - 四本参考小说的 UTF-8 文本放在 `/tmp/opencode/`：`dafeng/dafeng.txt`、`xin.txt`、`qs.txt`、`db.txt` 与清洗后的 `db_clean.txt`。该目录是临时空间，新会话若缺失需从工作区根目录的压缩包或 txt 重新转换。
   - 东北鬼医语料有污染：第 414、415、416、419、421、422、426 章章末混入异书文本，引文只取第 1 至 413 章与第 427 至 779 章；414 至 426 章只取前半章。
+  - 《大奉打更人》已按章切分为 `/tmp/opencode/dafeng/ch/0001.txt` 至 `0820.txt`，另有 `index.json`（每项为 [全局章序, 中文标目, 章名, 汉字数]）。原书正文标目为卷内编号，与全局章序从第 100 多章起开始错位，核对引文时以全局章序的文件名为准。
