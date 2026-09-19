@@ -98,7 +98,7 @@
 ## 风格
 
 - required_effects: 柏木刨花、凿子在木纹里走三层、糖上牙印、井台石板松、锅底结皮的粥
-- forbidden_drift: 不许写陆放的心理；不许把记号写成「断碑堂的记号」，读者还不知道这个名字
+- forbidden_drift: 不许写陆放的心理；不许把记号写成「守碑堂的记号」，读者还不知道这个名字
 - paragraph_rhythm_task: 陆放对话段一句一段，夜与井一段收紧
 - dialogue_task: 陆放声音漏风，句子短，句子后头带一个动作
 - hook_type: 声音钩
