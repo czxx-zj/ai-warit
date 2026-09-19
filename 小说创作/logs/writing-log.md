@@ -960,6 +960,27 @@
   - 阿绫在上游遇到什么，留作第 10 章起
   - 油掺水只当一桩生意上的私活写，不当暗号
 
+## Chapter 10
+
+- drafted_at: 2026-09-19
+- mode: serialized
+- benchmark_check_ran: yes
+- delivered:
+  - chapters/10-过户文书.md: 2515 汉字
+- punctuation_gate: 叹号 0、省略号 0、破折号 0
+- blacklist_gate: 形容词与 AI 腔黑名单零命中
+- retrieval_slice_used: 是，回收第 4 章那半张照与药钱、第 4 章那截渡口同款灯芯、第 8 章押据添字、第 9 章阿绫的车与油坊封条
+- forgotten_element_risk_action: 第 9 章那半桶油来自油坊，本章让封条上的印与过户文书上的印对上，油路与公文合成一条
+- continuity_fix: 第 9 章原写阿绫把空车推回渡口外，与她「车我搁这儿」一句相冲，改为一并推上船带走，本章那辆翻在岔路口的车才接得上
+- authenticity_pass_level: medium
+- post_authenticity_mini_recheck_ran: yes
+- marathon_mode: no
+- auto_advanced_to_next_chapter: no
+- primary_fix_origin: continuity
+- temporary_assumptions:
+  - 方印是谁盖的，留作卷一收束
+  - 阿绫在岔路口之前遇到什么，留作第 11 章起
+
 ## 参考小说通读：大奉打更人
 
 - at: 2026-09-18
