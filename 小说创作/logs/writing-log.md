@@ -874,6 +874,50 @@
 - third_pass_cause_summary:
   - not needed
 
+## 换底：全书重写为《守灯》
+
+- revised_at: 2026-09-19
+- revision_cause: 作者从三提案中选定《守灯》，旧设定与旧第 1 至 7 章整体作废
+- canonical_change:
+  - 题材换为东方仙道志怪。主角陆守灯，渡口看灯人
+  - 核心装置：渡口九盏灯对还没过河的人，灯灭一笔落，那人过河；簿上只有号没有名
+  - 代价：对生死的裁量权。明面不会老，暗面走不远，底是坐进后屋
+  - 全书引擎：后屋坐着的爷爷就是他将来的样子；爷爷当年替人顶了一笔
+  - 新增第一条硬规矩：不许账本式写法。判据＝这句话屋里人能不能用手、用眼、用耳当场做出来
+- updated_files:
+  - 00-project-overview.md 至 09-style-guide.md 全量重写
+  - chapters/ 旧第 1 至 7 章删除，新第 1 至 7 章新建
+  - control-cards/ 旧卡删除，新第 1 至 7 章控制卡新建
+  - 06-foreshadow-ledger.md 按交付重排为 F001 至 F046
+  - 08-dynamic-state.md 开局状态重立，章节事件回填至第 7 章
+- wording_purge: 全库清除账本式写法与旁白报告句，扫「数」「记」「对」「算」逐处核
+
+## Chapters 1 至 7
+
+- drafted_at: 2026-09-19
+- mode: serialized
+- benchmark_check_ran: yes
+- delivered:
+  - chapters/01-丙九那盏灯.md: 2585 汉字
+  - chapters/02-鞋摆正了.md: 2520 汉字
+  - chapters/03-我不落那一笔.md: 2646 汉字
+  - chapters/04-纸里包的是灰.md: 2517 汉字
+  - chapters/05-按客礼来.md: 2506 汉字
+  - chapters/06-分段钱.md: 2501 汉字
+  - chapters/07-名字后头空着一格.md: 2522 汉字
+- punctuation_gate: 七章叹号 0、省略号 0、破折号 0
+- blacklist_gate: 形容词与 AI 腔黑名单零命中
+- retrieval_slice_used: 是，第 3 章回收第 1 至 2 章的灯芯与鞋；第 6 章回收第 1 章的灰褂子；第 7 章回收第 5 章的正月十五
+- forgotten_element_action: 灰褂子、灯架底下不可坐人、西屋三处旧扣都在第 6、7 章各碰一次，未成废棋
+- authenticity_pass_level: medium
+- post_authenticity_mini_recheck_ran: yes
+- marathon_mode: no
+- auto_advanced_to_next_chapter: no
+- primary_fix_origin: length
+- temporary_assumptions:
+  - 奶奶的庙册页码与名字位置留到卷三
+  - 爹娘那年水难在第 8 章起再落地
+
 ## 参考小说通读：大奉打更人
 
 - at: 2026-09-18
