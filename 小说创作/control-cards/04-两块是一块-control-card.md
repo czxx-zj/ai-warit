@@ -11,10 +11,10 @@
 
 ## 本章任务
 
-- core_goal: 两块碑角拼上，露出三个字；师徒第一次把话摆到桌面上，谁也没说透
+- core_goal: 两块黑石片拼上，露出三个字；黑石不是墓碑石，是从一面壁上拆下来的；师徒第一次把话摆到桌面上，谁也没说透
 - chapter_tier: 转（卷一第 4 章）
 - required_plotlines: L1 名字；L2 师父
-- required_prior_debts: F002 碑角；F014 师父往北
+- required_prior_debts: F002 半个字；F014 师父往北
 
 ## 章名
 
@@ -26,7 +26,7 @@
 ## 承接与回收
 
 - retrieval_slice_targets: 第 3 章末马蹄声往北
-- cold_lines_due: F002 碑角、F014 师父往北
+- cold_lines_due: F002 半个字、F014 师父往北
 - characters_due_for_return: 沈照、裴三更
 - relationships_due_for_bridge: 沈照与师父
 - foreshadows_due_or_overdue: F006 磨刀石（不动，留着）
@@ -48,7 +48,7 @@
 
 ## 埋点
 
-- new_plants: F019 磨平的头一个字；F020 鞋帮上的红胶泥；F021 描着「无咎」的纸
+- new_plants: F020 磨平的头一个字；F021 黑石一面磨得平；F022 鞋帮上的红胶泥；F023 描着「无咎」的纸
 - active_callbacks: F002 F014
 - blocked_reveals: 无咎是谁的名字；头一个字是什么
 
@@ -123,6 +123,6 @@
 
 ## 交付记录
 
-- delivered_revision: 2026-09-19 新书《碑上无名》第 4 章
-- word_count: 2505 汉字（去标题行）
+- delivered_revision: 2026-09-19 新书《榜上无名》第 4 章
+- word_count: 2624 汉字（去标题行）
 - self_check: 叹号 0，省略号 0，破折号 0，黑名单 0，无裸对话

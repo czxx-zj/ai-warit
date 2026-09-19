@@ -48,7 +48,7 @@
 
 ## 埋点
 
-- new_plants: F016 陆记门框上的刻痕；F017 两个骑马的外地人；F018 第二天夜里进铺子的人与糖上的牙印
+- new_plants: F017 陆记门框上的刻痕；F018 两个骑马的外地人；F019 第二天夜里进铺子的人与糖上的牙印
 - active_callbacks: F013 刀根记认
 - blocked_reveals: 陆放是四个人之一，不给
 
@@ -80,7 +80,7 @@
   - unit_label: 房梁
     - goal: 他独自验那一刀与那个记号
     - conflict: 三回都试不成，刀划开裤腿
-    - turn_or_aftershock: 他拿铅笔把记号描在纸上
+    - turn_or_aftershock: 他拿炭条把记号描在纸上
     - carryover: 贴身那张纸
   - unit_label: 夜与井
     - goal: 追一层疑心，给下一卷留线
@@ -98,7 +98,7 @@
 ## 风格
 
 - required_effects: 柏木刨花、凿子在木纹里走三层、糖上牙印、井台石板松、锅底结皮的粥
-- forbidden_drift: 不许写陆放的心理；不许把记号写成「守碑堂的记号」，读者还不知道这个名字
+- forbidden_drift: 不许写陆放的心理；不许把记号写成「守榜堂的记号」，读者还不知道这个名字
 - paragraph_rhythm_task: 陆放对话段一句一段，夜与井一段收紧
 - dialogue_task: 陆放声音漏风，句子短，句子后头带一个动作
 - hook_type: 声音钩
@@ -123,6 +123,6 @@
 
 ## 交付记录
 
-- delivered_revision: 2026-09-19 新书《碑上无名》第 3 章
-- word_count: 2544 汉字（去标题行）
+- delivered_revision: 2026-09-19 新书《榜上无名》第 3 章
+- word_count: 2647 汉字（去标题行）
 - self_check: 叹号 0，省略号 0，破折号 0，黑名单 0，无裸对话

@@ -1,4 +1,4 @@
-# 第 6 章 控制卡 白身
+# 第 6 章 控制卡 无名
 
 ## 本章身份
 
@@ -11,10 +11,10 @@
 
 ## 本章任务
 
-- core_goal: 他第一次离家；在路上第一次听见「白身」这两个字；姐姐与他照面，谁也没认谁
+- core_goal: 他第一次离家；在路上第一次听见「无名」这两个字；姐姐与他照面，谁也没认谁
 - chapter_tier: 转（卷一第 6 章）
 - required_plotlines: L1 名字；L6 姐姐起头；L5 四个人隔着一句「沈家的人」
-- required_prior_debts: F017 两个骑马的外地人；F024 别上碑
+- required_prior_debts: F018 两个骑马的外地人；F026 别上榜
 
 ## 章名
 
@@ -26,14 +26,14 @@
 ## 承接与回收
 
 - retrieval_slice_targets: 第 5 章末三张纸与朝北看
-- cold_lines_due: F024
+- cold_lines_due: F026
 - characters_due_for_return: 沈照、燕锦（不点名）
 - relationships_due_for_bridge: 沈照与姐姐
-- foreshadows_due_or_overdue: F016 陆记门框（顺手看一眼，不动）
+- foreshadows_due_or_overdue: F017 陆记门框（顺手看一眼，不动）
 
 ## 冲突
 
-- external_conflict: 师父第二次夜里出门，两天不回；破庙里两个偷羊的人要他的包；酒铺那四个人当面说白身不算人
+- external_conflict: 师父第二次夜里出门，两天不回；破庙里两个偷羊的人要他的包；酒铺那四个人当面说榜上无名的不算人
 - internal_conflict: 他杀人那夜吐过，这一夜只砸断一条胳膊；他朝北走，是为了问清楚
 - relational_conflict: 那个女人问他姓什么，他说姓沈，她静了一下
 
@@ -44,12 +44,12 @@
 - character_concealments_this_chapter: 那女人知道「沈」这个姓在她这儿意味着什么，不说；沈照藏着他为什么朝北走
 - protagonist_personality_trigger: 陌生人问他话，他先看对方握东西的那只手
 - character_increment: 从「等师父先说」到「自己走」
-- arc_progression_point: 他第一次离开石桥镇，也第一次听见别人拿「白身」说他
+- arc_progression_point: 他第一次离开石桥镇，也第一次听见别人拿「无名」说他
 
 ## 埋点
 
-- new_plants: F025 界石与砖上一样的收笔；F026 她问姓什么
-- active_callbacks: F016 F024
+- new_plants: F012 她左手小指短一截；F027 界石与砖上一样的收笔；F028 她问姓什么
+- active_callbacks: F017 F026
 - blocked_reveals: 她是谁；递话的老头是谁的人
 
 ## 场面
@@ -73,8 +73,8 @@
     - turn_or_aftershock: 他扣住手腕，用刀背砸断那条胳膊
     - carryover: 偷来的冻羊
   - unit_label: 酒铺
-    - goal: 用四个不相干的人把「白身」钉在他身上
-    - conflict: 招多也没用，白身进不去；去年有个白身跪了三天
+    - goal: 用四个不相干的人把「无名」钉在他身上
+    - conflict: 招多也没用，榜末几千个名字挤不上去；去年有个无名跪了三天
     - turn_or_aftershock: 他们拎刀起身，手势很稳
     - carryover: 他多要了一碗酒
   - unit_label: 柜台
@@ -123,6 +123,6 @@
 
 ## 交付记录
 
-- delivered_revision: 2026-09-19 新书《碑上无名》第 6 章
-- word_count: 2540 汉字（去标题行）
+- delivered_revision: 2026-09-19 新书《榜上无名》第 6 章
+- word_count: 2776 汉字（去标题行）
 - self_check: 叹号 0，省略号 0，破折号 0，黑名单 0，无裸对话

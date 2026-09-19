@@ -35,7 +35,7 @@
 
 - external_conflict: 她看出左肩是刀伤；她说山上有人打听他，问的就是他耳后那颗痣
 - internal_conflict: 她刻的是「照哥」两个字，他知道自己不姓沈，他没说
-- relational_conflict: 她想替父亲理领子，父亲退了半步；她夜里留一张纸条，写着别上碑
+- relational_conflict: 她想替父亲理领子，父亲退了半步；她夜里留一张纸条，写着别上榜
 
 ## 人物
 
@@ -48,7 +48,7 @@
 
 ## 埋点
 
-- new_plants: F022 挂在脖子上的铁片（背面刻着照哥）；F023 三房那个师兄没被逐；F024 她留的纸条「别上碑」
+- new_plants: F010 右肩那道疤；F024 挂在脖子上的铁片（背面刻着照哥）；F025 三房那个师兄没被逐；F026 她留的纸条「别上榜」
 - active_callbacks: F008 F017
 - blocked_reveals: 那一刀是不是冲她爹来的；山门那两个外地人是谁的人
 
@@ -74,7 +74,7 @@
     - carryover: 他没编出第二个理由
   - unit_label: 饭桌与山上的事
     - goal: 给卷二的山门一个能摸到的样子
-    - conflict: 白身天不亮起，跑十里，粥里能照见人
+    - conflict: 无名天不亮起，跑十里，粥里能照见人
     - turn_or_aftershock: 有人在山门打听刻碑的年轻人
     - carryover: 那两个人住在山门外客栈
   - unit_label: 疤
@@ -86,7 +86,7 @@
     - goal: 章末给两样东西，一样带在身上，一样留下
     - conflict: 铁片背面刻着照哥
     - turn_or_aftershock: 她天亮前走了，草铺上留一双没纳完的鞋与一张纸
-    - carryover: 别上碑
+    - carryover: 别上榜
 
 ## 主题
 
@@ -108,7 +108,7 @@
 ## 风险
 
 - missing_information: 那一刀为什么没人罚
-- continuity_risks: 她去年上碑是入室弟子，与第 1 章交代一致；北岭到镇上六十里，两天，不许改
+- continuity_risks: 她是入室弟子，名字报了还没刻，与前文一致；北岭到镇上六十里，两天，不许改
 - forgotten_element_risk: 铁片要在卷二再出现一次；纸条不许丢
 - trope_convenience_risk: 不许让她把山门名册的事一次说完
 
@@ -123,6 +123,6 @@
 
 ## 交付记录
 
-- delivered_revision: 2026-09-19 新书《碑上无名》第 5 章
-- word_count: 2531 汉字（去标题行）
+- delivered_revision: 2026-09-19 新书《榜上无名》第 5 章
+- word_count: 2844 汉字（去标题行）
 - self_check: 叹号 0，省略号 0，破折号 0，黑名单 0，无裸对话

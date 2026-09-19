@@ -1,4 +1,4 @@
-# 第 2 章 控制卡 那块碑角
+# 第 2 章 控制卡 半个字
 
 ## 本章身份
 
@@ -11,7 +11,7 @@
 
 ## 本章任务
 
-- core_goal: 把那一夜的血收拾干净，把碑角与死人的刀藏起来；师徒第一次互相试探
+- core_goal: 把那一夜的血收拾干净，把黑石片与死人的刀藏起来；黑石不像墓碑石，倒像从一面壁上拆下来的；师徒第一次互相试探
 - chapter_tier: 承（卷一第 2 章）
 - required_plotlines: L1 名字承；L2 师父承；L5 四个人承
 - required_prior_debts: 师父手背上的疤（F001）、那块石头（F002）
@@ -48,7 +48,7 @@
 
 ## 埋点
 
-- new_plants: F013 刀根上的记认（一横压一斜，斜的末了往里勾）；F014 师父半夜背刀往北；F015 抱他出火的那个人
+- new_plants: F014 刀根上的记认（一横压一斜，斜的末了往里勾）；F015 师父半夜背刀往北；F016 抱他出火的那个人
 - active_callbacks: F001 F002 F003 F004 F005
 - blocked_reveals: 师父去哪儿，不回收
 
@@ -62,12 +62,12 @@
     - conflict: 血冻在砖上，炭盆裂了，刀钉子的眼歪了
     - turn_or_aftershock: 死人的刀根上有一个记号
     - carryover: 房梁上的刀
-  - unit_label: 碑角
+  - unit_label: 黑石片
     - goal: 把十年那一段第一次给出来，只给一个抱的动作
     - conflict: 半个字是燕家的下凿手法
     - turn_or_aftershock: 记住那张脸的办法是走笔画的顺序
     - carryover: 井台底下的石头
-  - unit_label: 取碑
+  - unit_label: 青石
     - goal: 用一笔生意把日子拉回原样
     - conflict: 四百文余款，六文布条，二十七文私房
     - turn_or_aftershock: 老周是十月初七没的
@@ -111,13 +111,13 @@
 
 - sentence_task: 长短交替，藏刀与夜行两段短句为主
 - camera_task: 只写我看见听见摸到的
-- plausibility_task: 抬碑、买布条、挑水、楔锄头都用真价钱真家伙
+- plausibility_task: 刻石、买布条、挑水、楔锄头都用真价钱真家伙
 - dialogue_format_task: 说话人加说或问，冒号，双引号
 - addressing_task: 旁白写「我」；师父只写「师父」；周顺写「他」
 - read_aloud_gate: 通读一遍，读着像念稿就重写
 
 ## 交付记录
 
-- delivered_revision: 2026-09-19 新书《碑上无名》第 2 章
-- word_count: 2553 汉字（去标题行）
+- delivered_revision: 2026-09-19 新书《榜上无名》第 2 章
+- word_count: 2724 汉字（去标题行）
 - self_check: 叹号 0，省略号 0，破折号 0，黑名单 0，不规范引语 0，裸对话 0
