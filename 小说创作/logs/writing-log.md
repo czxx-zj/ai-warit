@@ -939,6 +939,27 @@
   - 谁动过那口箱子，留作卷一后段的线
   - 渡牌名下那块空地只写成本来的木料样子，不写成刻好的格
 
+## Chapter 9
+
+- drafted_at: 2026-09-19
+- mode: serialized
+- benchmark_check_ran: yes
+- delivered:
+  - chapters/09-半桶油.md: 2520 汉字
+- punctuation_gate: 叹号 0、省略号 0、破折号 0
+- blacklist_gate: 形容词与 AI 腔黑名单零命中
+- retrieval_slice_used: 是，回收第 2 章阿绫推车与顾家那只鞋、第 6 章分段钱、第 7 章回程、第 8 章收铺与正月十五
+- forgotten_element_risk_action: 第 7 章回程那趟跟着的船，本章由老莫补上第三夜灯架底下的桨声，线接住
+- continuity_fix: 初稿写灯随人走（撑船离渡口半里，八盏灯顺次灭），与 02 世界观的「灯只在渡口管用、九盏各对一人」相冲，整章重写，改以阿绫那半桶油为支点
+- authenticity_pass_level: medium
+- post_authenticity_mini_recheck_ran: yes
+- marathon_mode: no
+- auto_advanced_to_next_chapter: no
+- primary_fix_origin: continuity
+- temporary_assumptions:
+  - 阿绫在上游遇到什么，留作第 10 章起
+  - 油掺水只当一桩生意上的私活写，不当暗号
+
 ## 参考小说通读：大奉打更人
 
 - at: 2026-09-18
